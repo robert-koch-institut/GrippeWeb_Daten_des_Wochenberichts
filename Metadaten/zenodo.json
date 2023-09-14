@@ -1,0 +1,94 @@
+{
+  "title": "GrippeWeb - Daten des Wochenberichts",
+  "description": "GrippeWeb ist ein Online-Portal des Robert Koch-Instituts (RKI). Es wurde im Jahr 2011 gegründet und ist das erste Webportal, das die Aktivität akuter Atemwegserkrankungen (ARE) in Deutschland beobachtet, und dabei Informationen direkt aus der Bevölkerung verwendet. Es ist ein robustes und zeitnahes System der partizipativen syndromischen Surveillance, welches aus den ganzjährigen wöchentlichen Selbstauskünften von Bürgerinnen und Bürgern gespeist wird und somit unabhängig von einer ärztlichen Konsultation ist. GrippeWeb wurde vom RKI u. a. als Überwachungsinstrument in der Vorbereitung und Bewältigung zukünftiger Pandemien entwickelt und als dieses auch zur Lagebewertung und Risikoeinschätzung der Coronavirus Disease 2019 (COVID-19) Pandemie genutzt.<br>\n<br>\nBei GrippeWeb registrierte Teilnehmer und Teilnehmerinnen, werden wöchentlich gefragt, ob sie eine neu aufgetretene Atemwegserkrankung hatten mit Symptomen wie z.B. Husten, Schnupfen, Halsschmerzen oder Fieber, oder ob dies nicht der Fall war. Darüber hinaus werden u.a. potentielle Erregernachweise abgefragt. Über diese Angaben lassen sich wöchentliche gewichtete Inzidenzen (pro 100.000 Einw.) von akuten Atemwegserkrankungen (ARE), und grippeähnlichen Erkrankungen (Influenza-like Illness = ILI) in der Bevölkerung schätzen. Die wöchentlich aktualisierten Ergebnisse werden jeden Freitag im GrippeWeb-Wochenbericht unter <a href=\"http://www.rki.de/grippeweb\">www.rki.de/grippeweb</a> veröffentlicht sowie der Datensatz auf GitHub zur Verfügung gestellt.",
+  "creators": [
+    {
+      "name": "Buchholz, Udo",
+      "affiliation": "Robert Koch-Institut",
+      "orcid": "0000-0001-6597-3995"
+    },
+    {
+      "name": "Buda, Silke",
+      "affiliation": "Robert Koch-Institut",
+      "orcid": "0000-0003-3448-3357"
+    },
+    {
+      "name": "Loenenbach , Anna",
+      "affiliation": "Robert Koch-Institut",
+      "orcid": "0000-0002-6455-8527"
+    },
+    {
+      "name": "Lehfeld, Anna-Sophie",
+      "affiliation": "Robert Koch-Institut",
+      "orcid": "0000-0002-1686-0289"
+    },
+    {
+      "name": "Prahm, Kerstin",
+      "affiliation": "Robert Koch-Institut",
+      "orcid": "0009-0005-7038-4315"
+    },
+    {
+      "name": "Preuß, Ute",
+      "affiliation": "Robert Koch-Institut"
+    },
+    {
+      "name": "Haas, Walter",
+      "affiliation": "Robert Koch-Institut",
+      "orcid": "0000-0003-3413-1431"
+    }
+  ],
+  "contributors": [],
+  "keywords": [
+    "ARE",
+    "ILI",
+    "Atemwegsinfektionen",
+    "Respiratory Tract Infections",
+    "Syndromische Surveillance",
+    "Syndromic Surveillance",
+    "Influenza",
+    "Grippe",
+    "Respiratorische Erkrankung",
+    "Erhebungen und Fragebögen",
+    "Survey",
+    "GrippeWeb",
+    "Deutschland",
+    "Germany",
+    "RKI",
+    "Open Data",
+    "Offen Daten"
+  ],
+  "publication_date": "2023-09-14",
+  "version": "2023-09-14",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "language": "deu",
+  "communities": [
+    {
+      "identifier": "robertkochinstitut"
+    }
+  ],
+  "subjects": [],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts",
+      "resource_type": "dataset"
+    },
+    {
+      "relation": "isDocumentedBy",
+      "identifier": "https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts/blob/main/Readme.md",
+      "resource_type": "publication-report"
+    },
+    {
+      "relation": "isDocumentedBy",
+      "identifier": "https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts/blob/main/[Dokumentation]_GrippeWeb_Daten_des_Wochenberichts.pdf",
+      "resource_type": "publication-report"
+    },
+    {
+      "relation": "isDescribedBy",
+      "identifier": "https://www.github.io/robert-koch-institut/GrippeWeb_-_Daten_des_Wochenberichts",
+      "resource_type": "other"
+    }
+  ]
+}

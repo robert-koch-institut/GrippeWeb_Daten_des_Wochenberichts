@@ -1,0 +1,78 @@
+cff-version: 1.2.0
+type: dataset
+title: GrippeWeb - Daten des Wochenberichts
+abstract: >-
+  GrippeWeb ist ein Online-Portal des Robert Koch-Instituts (RKI). Es wurde im
+  Jahr 2011 gegründet und ist das erste Webportal, das die Aktivität akuter
+  Atemwegserkrankungen (ARE) in Deutschland beobachtet, und dabei Informationen
+  direkt aus der Bevölkerung verwendet. Es ist ein robustes und zeitnahes System
+  der partizipativen syndromischen Surveillance, welches aus den ganzjährigen
+  wöchentlichen Selbstauskünften von Bürgerinnen und Bürgern gespeist wird und
+  somit unabhängig von einer ärztlichen Konsultation ist. GrippeWeb wurde vom
+  RKI u. a. als Überwachungsinstrument in der Vorbereitung und Bewältigung
+  zukünftiger Pandemien entwickelt und als dieses auch zur Lagebewertung und
+  Risikoeinschätzung der Coronavirus Disease 2019 (COVID-19) Pandemie genutzt.
+
+
+  Bei GrippeWeb registrierte Teilnehmer und Teilnehmerinnen, werden wöchentlich
+  gefragt, ob sie eine neu aufgetretene Atemwegserkrankung hatten mit Symptomen
+  wie z.B. Husten, Schnupfen, Halsschmerzen oder Fieber, oder ob dies nicht der
+  Fall war. Darüber hinaus werden u.a. potentielle Erregernachweise abgefragt.
+  Über diese Angaben lassen sich wöchentliche gewichtete Inzidenzen (pro 100.000
+  Einw.) von akuten Atemwegserkrankungen (ARE), und grippeähnlichen Erkrankungen
+  (Influenza-like Illness = ILI) in der Bevölkerung schätzen. Die wöchentlich
+  aktualisierten Ergebnisse werden jeden Freitag im GrippeWeb-Wochenbericht
+  unter www.rki.de/grippeweb (http://www.rki.de/grippeweb) veröffentlicht sowie
+  der Datensatz auf GitHub zur Verfügung gestellt.
+date-released: '2023-09-14'
+keywords:
+  - ARE
+  - ILI
+  - Atemwegsinfektionen
+  - Respiratory Tract Infections
+  - Syndromische Surveillance
+  - Syndromic Surveillance
+  - Influenza
+  - Grippe
+  - Respiratorische Erkrankung
+  - Erhebungen und Fragebögen
+  - Survey
+  - GrippeWeb
+  - Deutschland
+  - Germany
+  - RKI
+  - Open Data
+  - Offen Daten
+message: Cite me!
+url: >-
+  https://www.github.io/robert-koch-institut/GrippeWeb_-_Daten_des_Wochenberichts
+license: CC-BY-4.0
+doi: 10.5281/zenodo.8340323
+authors:
+  - family-names: Buchholz
+    given-names: Udo
+    affiliation: Robert Koch-Institut
+    orcid: 0000-0001-6597-3995
+  - family-names: Buda
+    given-names: Silke
+    affiliation: Robert Koch-Institut
+    orcid: 0000-0003-3448-3357
+  - family-names: 'Loenenbach '
+    given-names: Anna
+    affiliation: Robert Koch-Institut
+    orcid: 0000-0002-6455-8527
+  - family-names: Lehfeld
+    given-names: Anna-Sophie
+    affiliation: Robert Koch-Institut
+    orcid: 0000-0002-1686-0289
+  - family-names: Prahm
+    given-names: Kerstin
+    affiliation: Robert Koch-Institut
+    orcid: 0009-0005-7038-4315
+  - family-names: Preuß
+    given-names: Ute
+    affiliation: Robert Koch-Institut
+  - family-names: Haas
+    given-names: Walter
+    affiliation: Robert Koch-Institut
+    orcid: 0000-0003-3413-1431
