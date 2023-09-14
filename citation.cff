@@ -43,11 +43,16 @@ keywords:
   - RKI
   - Open Data
   - Offen Daten
+  - Gesundheitsberichterstattung
+  - Epidemiologie
+  - Public health surveillance
+  - Epidemiology
 message: Cite me!
 url: >-
   https://www.github.io/robert-koch-institut/GrippeWeb_-_Daten_des_Wochenberichts
 license: CC-BY-4.0
-doi: 10.5281/zenodo.8340323
+doi: 10.5281/zenodo.8344156
+version: '2023-09-14T11:21:44+02:00'
 authors:
   - family-names: Buchholz
     given-names: Udo
@@ -62,7 +67,7 @@ authors:
     affiliation: Robert Koch-Institut
     orcid: 0000-0002-6455-8527
   - family-names: Lehfeld
-    given-names: Anna-Sophie
+    given-names: Ann-Sophie
     affiliation: Robert Koch-Institut
     orcid: 0000-0002-1686-0289
   - family-names: Prahm

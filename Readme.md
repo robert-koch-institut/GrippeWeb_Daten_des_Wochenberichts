@@ -11,7 +11,7 @@ Nordufer 20
 ---
 
 **Zitieren**  
-Buchholz U, Buda S, Lehfeld AS, Loenenbach A, Prahm K, Preuß U, Haas W (2023): GrippeWeb - Daten des Wochenberichts, Berlin: Zenodo. [DOI: 10.5281/zenodo.8340323](https://doi.org/10.5281/zenodo.8340323)  
+Buchholz U, Buda S, Lehfeld AS, Loenenbach A, Prahm K, Preuß U, Haas W (2023): GrippeWeb - Daten des Wochenberichts, Berlin: Zenodo. [DOI: 10.5281/zenodo.8344156](https://doi.org/10.5281/zenodo.8344156)  
 
 ## Einleitung  
 GrippeWeb ist ein Online-Portal des Robert Koch-Instituts (RKI). Es wurde im Jahr 2011 gegründet und ist das erste Webportal, das die Aktivität akuter Atemwegserkrankungen (ARE) in Deutschland beobachtet, und dabei Informationen direkt aus der Bevölkerung verwendet. Es ist ein robustes und zeitnahes System der partizipativen syndromischen Surveillance, welches aus den ganzjährigen wöchentlichen Selbstauskünften von Bürgerinnen und Bürgern gespeist wird und somit unabhängig von einer ärztlichen Konsultation ist. GrippeWeb wurde vom RKI u. a. als Überwachungsinstrument in der Vorbereitung und Bewältigung zukünftiger Pandemien entwickelt und als dieses auch zur Lagebewertung und Risikoeinschätzung der Coronavirus Disease 2019 (COVID-19) Pandemie genutzt.   
@@ -157,7 +157,7 @@ Offene Forschungsdaten des RKI werden auf [Zenodo.org](http://Zenodo.org/), [Git
 
 ### Lizenz  
 
-Der Datensatz "ARE-Konsultationsinzidenz" ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Public License | CC-BY ](https://creativecommons.org/licenses/by/4.0/deed.de).  
+Der Datensatz "GrippeWeb - Daten des Wochenberichts" ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Public License | CC-BY ](https://creativecommons.org/licenses/by/4.0/deed.de).  
 
 Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, jede Person hat das Recht die Daten zu verarbeiten und zu verändern, Derivate des Datensatzes zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts/blob/main/LICENSE) bzw. [LIZENZ](https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts/blob/main/LIZENZ) Datei des Datensatzes.
 

@@ -18,7 +18,7 @@
       "orcid": "0000-0002-6455-8527"
     },
     {
-      "name": "Lehfeld, Anna-Sophie",
+      "name": "Lehfeld, Ann-Sophie",
       "affiliation": "Robert Koch-Institut",
       "orcid": "0000-0002-1686-0289"
     },
@@ -68,7 +68,32 @@
       "identifier": "robertkochinstitut"
     }
   ],
-  "subjects": [],
+  "subjects": [
+    {
+      "term": "Gesundheitsberichterstattung",
+      "identifier": "info:ddc/22/de//614.42"
+    },
+    {
+      "term": "Epidemiologie",
+      "identifier": "info:ddc/22/de//614.4"
+    },
+    {
+      "term": "Public health surveillance",
+      "identifier": "info:ddc/22/eng//614.42"
+    },
+    {
+      "term": "Epidemiology",
+      "identifier": "info:ddc/22/eng//614.4"
+    }
+  ],
+  "dates": [
+    {
+      "start": "2023-09-14T11:21:44+02:00",
+      "end": "2023-09-14T11:21:44+02:00",
+      "type": "Collected",
+      "description": "Date when the Dataset was created"
+    }
+  ],
   "related_identifiers": [
     {
       "relation": "isSupplementTo",
