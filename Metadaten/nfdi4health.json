@@ -5,7 +5,7 @@
     ],
     "ids": [
       {
-        "identifier": "10.5281/zenodo.8344156",
+        "identifier": "10.5281/zenodo.8365629",
         "type": "DOI",
         "resource_type_general": "Dataset",
         "relation_type": "A references B"
@@ -120,7 +120,7 @@
         },
         "resource_use_rights_label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)"
       },
-      "resource_version": "2023-09-14"
+      "resource_version": "2023-09-19"
     },
     "resource_titles": [
       {
@@ -177,11 +177,11 @@
         "role_name_type": "Personal",
         "role_name_personal": {
           "role_name_personal_type": "Creator/Author",
-          "role_name_personal_given_name": "Anna",
-          "role_name_personal_family_name": "Loenenbach ",
+          "role_name_personal_given_name": "Ann-Sophie",
+          "role_name_personal_family_name": "Lehfeld",
           "role_name_identifiers": [
             {
-              "identifier": "0000-0002-6455-8527",
+              "identifier": "0000-0002-1686-0289",
               "scheme": "ORCID"
             }
           ]
@@ -196,11 +196,11 @@
         "role_name_type": "Personal",
         "role_name_personal": {
           "role_name_personal_type": "Creator/Author",
-          "role_name_personal_given_name": "Ann-Sophie",
-          "role_name_personal_family_name": "Lehfeld",
+          "role_name_personal_given_name": "Anna",
+          "role_name_personal_family_name": "Loenenbach",
           "role_name_identifiers": [
             {
-              "identifier": "0000-0002-1686-0289",
+              "identifier": "0000-0002-6455-8527",
               "scheme": "ORCID"
             }
           ]

@@ -24,7 +24,7 @@ abstract: >-
   aktualisierten Ergebnisse werden jeden Freitag im GrippeWeb-Wochenbericht
   unter www.rki.de/grippeweb (http://www.rki.de/grippeweb) veröffentlicht sowie
   der Datensatz auf GitHub zur Verfügung gestellt.
-date-released: '2023-09-14'
+date-released: '2023-09-21'
 keywords:
   - ARE
   - ILI
@@ -51,8 +51,8 @@ message: Cite me!
 url: >-
   https://www.github.io/robert-koch-institut/GrippeWeb_-_Daten_des_Wochenberichts
 license: CC-BY-4.0
-doi: 10.5281/zenodo.8344156
-version: '2023-09-14T11:21:44+02:00'
+doi: 10.5281/zenodo.8365629
+version: '2023-09-19T10:30:39+02:00'
 authors:
   - family-names: Buchholz
     given-names: Udo
@@ -62,14 +62,14 @@ authors:
     given-names: Silke
     affiliation: Robert Koch-Institut
     orcid: 0000-0003-3448-3357
-  - family-names: 'Loenenbach '
-    given-names: Anna
-    affiliation: Robert Koch-Institut
-    orcid: 0000-0002-6455-8527
   - family-names: Lehfeld
     given-names: Ann-Sophie
     affiliation: Robert Koch-Institut
     orcid: 0000-0002-1686-0289
+  - family-names: Loenenbach
+    given-names: Anna
+    affiliation: Robert Koch-Institut
+    orcid: 0000-0002-6455-8527
   - family-names: Prahm
     given-names: Kerstin
     affiliation: Robert Koch-Institut

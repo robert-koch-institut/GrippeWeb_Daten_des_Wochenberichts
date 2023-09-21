@@ -13,14 +13,14 @@
       "orcid": "0000-0003-3448-3357"
     },
     {
-      "name": "Loenenbach , Anna",
-      "affiliation": "Robert Koch-Institut",
-      "orcid": "0000-0002-6455-8527"
-    },
-    {
       "name": "Lehfeld, Ann-Sophie",
       "affiliation": "Robert Koch-Institut",
       "orcid": "0000-0002-1686-0289"
+    },
+    {
+      "name": "Loenenbach, Anna",
+      "affiliation": "Robert Koch-Institut",
+      "orcid": "0000-0002-6455-8527"
     },
     {
       "name": "Prahm, Kerstin",
@@ -57,8 +57,8 @@
     "Open Data",
     "Offen Daten"
   ],
-  "publication_date": "2023-09-14",
-  "version": "2023-09-14",
+  "publication_date": "2023-09-21",
+  "version": "2023-09-19",
   "upload_type": "dataset",
   "access_right": "open",
   "license": "CC-BY-4.0",
@@ -88,8 +88,8 @@
   ],
   "dates": [
     {
-      "start": "2023-09-14T11:21:44+02:00",
-      "end": "2023-09-14T11:21:44+02:00",
+      "start": "2023-09-19T10:30:39+02:00",
+      "end": "2023-09-19T10:30:39+02:00",
       "type": "Collected",
       "description": "Date when the Dataset was created"
     }

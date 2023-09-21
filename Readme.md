@@ -5,13 +5,13 @@ Datensatzdokumentation
 Nordufer 20  
 13353 Berlin  
 
-[Udo Buchholz](https://orcid.org/0000-0001-6597-3995), [Silke Buda](https://orcid.org/0000-0003-3448-3357), [Anna Loenenbach](https://orcid.org/0000-0002-6455-8527), [Ann-Sophie Lehfeld](https://orcid.org/0000-0002-1686-0289), [Kerstin Prahm](https://orcid.org/0009-0005-7038-4315), Ute Preuß und [Walter Haas](https://orcid.org/0000-0003-3413-1431) 
+[Udo Buchholz](https://orcid.org/0000-0001-6597-3995), [Silke Buda](https://orcid.org/0000-0003-3448-3357), [Ann-Sophie Lehfeld](https://orcid.org/0000-0002-1686-0289), [Anna Loenenbach](https://orcid.org/0000-0002-6455-8527), [Kerstin Prahm](https://orcid.org/0009-0005-7038-4315), Ute Preuß und [Walter Haas](https://orcid.org/0000-0003-3413-1431) 
 [**Fachgebiet 36 | Respiratorisch übertragbare Erkrankungen**](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/FG36/FG36_node.html)  
 
 ---
 
 **Zitieren**  
-Buchholz U, Buda S, Lehfeld AS, Loenenbach A, Prahm K, Preuß U, Haas W (2023): GrippeWeb - Daten des Wochenberichts, Berlin: Zenodo. [DOI: 10.5281/zenodo.8344156](https://doi.org/10.5281/zenodo.8344156)  
+Buchholz U, Buda S, Lehfeld AS, Loenenbach A, Prahm K, Preuß U, Haas W (2023): GrippeWeb - Daten des Wochenberichts, Berlin: Zenodo. [DOI: 10.5281/zenodo.8365629](https://doi.org/10.5281/zenodo.8365629)  
 
 ## Einleitung  
 GrippeWeb ist ein Online-Portal des Robert Koch-Instituts (RKI). Es wurde im Jahr 2011 gegründet und ist das erste Webportal, das die Aktivität akuter Atemwegserkrankungen (ARE) in Deutschland beobachtet, und dabei Informationen direkt aus der Bevölkerung verwendet. Es ist ein robustes und zeitnahes System der partizipativen syndromischen Surveillance, welches aus den ganzjährigen wöchentlichen Selbstauskünften von Bürgerinnen und Bürgern gespeist wird und somit unabhängig von einer ärztlichen Konsultation ist. GrippeWeb wurde vom RKI u. a. als Überwachungsinstrument in der Vorbereitung und Bewältigung zukünftiger Pandemien entwickelt und als dieses auch zur Lagebewertung und Risikoeinschätzung der Coronavirus Disease 2019 (COVID-19) Pandemie genutzt.   
@@ -25,7 +25,7 @@ Die Daten zum GrippeWeb-Wochenbericht werden vom Robert Koch-Institut herausgege
 
 Das Informationstechnikzentrum Bund (ITZBund), als IT-Dienstleister für Bundesbehörden, ist für die technische Bereitstellung der Webseite https://grippeweb.bund.de zuständig (Hosting und Betrieb). Der Datentransfer von ITZBund zum RKI erfolgt über [Fachgebiet IT4 | Softwarearchitektur und -entwicklung](https://www.rki.de/DE/Content/Institut/OrgEinheiten/MFI/IT4/it4_node.html) des RKI.  
 
-Die Veröffentlichung des Datensatzes, die Datenkurration sowie das Qualitätsmanagement der (Meta-)Daten erfolgen durch das Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement]([https://www.rki.de/DE/Content/Institut/OrgEinheiten/MFI/MF4/mf4_node.html]()). Fragen zum Datenmanagement und zur Publikationsinfrastruktur können an das Open Data Team des Fachgebiets MF4 unter [OpenData@rki.de](mailto:OpenData@rki.de) gerichtet werden.  
+Die Veröffentlichung des Datensatzes, die Datenkuration sowie das Qualitätsmanagement der (Meta-)Daten erfolgen durch das Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement]([https://www.rki.de/DE/Content/Institut/OrgEinheiten/MFI/MF4/mf4_node.html]()). Fragen zum Datenmanagement und zur Publikationsinfrastruktur können an das Open Data Team des Fachgebiets MF4 unter [OpenData@rki.de](mailto:OpenData@rki.de) gerichtet werden.  
 
 ### Teilnehmende  
 GrippeWeb ist ein Online-Surveillance-Instrument. Die Teilnahme an der Datenerhebung ist freiwillig und erfolgt pseudonym auf Grundlage einer Einwilligung. Alle Teilnehmenden erhalten einmal wöchentlich (montagmorgens) eine E-Mail mit einem Link zur [GrippeWeb-Webseite](https://grippeweb.bund.de) und der Bitte, online Auskunft zu geben, u. a. ob in der Vorwoche Symptome einer akuten Atemwegserkrankung aufgetreten sind oder nicht. Die Beantwortung kann nur nach persönlicher Anmeldung mit E-Mail-Adresse und Passwort erfolgen und dauert in der Regel weniger als eine Minute.   
