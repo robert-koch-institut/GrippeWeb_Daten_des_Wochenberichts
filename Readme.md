@@ -41,10 +41,10 @@ Es werden einmalig folgende Daten erhoben (die Angaben können später bei Bedar
 ##### Symptome
 
 |Frage|Typ|Ausprägung|
-| - | - | - |
+| --- | - | -------- |
 |Hatten Sie/Ihr Kind in der oben genannten Woche eine NEU aufgetretene Atemwegserkrankung (zum Beispiel neu aufgetretenen Husten, Schnupfen, Halsschmerzen, mit oder ohne Fieber)?|dichotom|Ja, Nein|
-|- Bitte geben Sie an, ob Sie folgende Symptome hatten: Fieber|dichotom|Ja, Nein (Für Kinder zusätzliche Antwortmöglichkeit: "unbekannt")|
-|- Bitte geben Sie an, ob Sie folgende Symptome hatten: Husten|dichotom|Ja, Nein (Für Kinder zusätzliche Antwortmöglichkeit: "unbekannt")|
+|- Bitte geben Sie an, ob Sie folgende Symptome hatten: Fieber       |dichotom|Ja, Nein (Für Kinder zusätzliche Antwortmöglichkeit: "unbekannt")|
+|- Bitte geben Sie an, ob Sie folgende Symptome hatten: Husten       |dichotom|Ja, Nein (Für Kinder zusätzliche Antwortmöglichkeit: "unbekannt")|
 |- Bitte geben Sie an, ob Sie folgende Symptome hatten: Halsschmerzen|dichotom|Ja, Nein (Für Kinder zusätzliche Antwortmöglichkeit: "unbekannt")|
 
 Eine Bearbeitung bereits beantworteter wöchentlicher Fragen oder eine nachträgliche Beantwortung von Fragen ist für die vergangenen vier Kalenderwochen möglich.  
@@ -107,22 +107,22 @@ Die Daten bilden den wöchentlichen Stand (00:00 Uhr) aller Meldungen von Grippe
 
 ### Variablen und Variablenausprägungen
 
-|Variablen | Typ | Ausprägungen | Beschreibung |
-| - | - | - | - |
-|Kalenderwoche|Text|`jjjj-Www` | Kalenderwoche, für die die Meldung abgegeben wurde|
-|Erkrankung|Text|`ARE`, `ILI` | Erkrankung nach Falldefinition (Link Falldefinition)|
-|Region|Text|`Bundesweit`, `Sueden`, `Osten`, `Norden (West)`, `Mitte (West)`,| Die Zuordung zu den Regionen ist für jedes Bundesland in den der [Grippeweb_Zuordung_Regionen.tsv](https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts/blob/main/Kontextmaterialien/GrippeWeb_Zuordung_Regionen.tsv) hinterlegt.|
-|Altersgruppe|Text|`00+`, `0-14`, `15+`, `0-4`, `5-14`, `15-34`, `35-59`, `60+`|Altersgruppen der Befragten. `00+`: Gesamt, `0-14`: Null bis 14 Jahre, `15+`: Älter als 15 Jahre, `60+`: Älter als 60 Jahre|
-|Inzidenz|Rationale Zahl|`>0`|Nach jeweiliger Bevölkerungsstruktur gewichtete Inzidenz pro 100.000 Einw.|
-|Meldungen|Rationale Zahl|`>0`|Anzahl der Meldungen pro Kalenderwoche|
-|Saison|Text|`jjjj/jjjj`|Saison jeweils von Kalenderwoche 40 bis Kalenderwoche 39 des Folgejahres (z.B. Saison 2012/13 = 2012W40 bis 2013W39) |
+|Variablen    |Typ |Ausprägungen| Beschreibung |
+| ----------- | -- | ---------- | ------------ |
+|Kalenderwoche|Text|`jjjj-Www`  |Kalenderwoche, für die die Meldung abgegeben wurde  |
+|Erkrankung   |Text|`ARE`, `ILI`|Erkrankung nach Falldefinition (Link Falldefinition)|
+|Region       |Text|`Bundesweit`, `Sueden`, `Osten`, `Norden (West)`, `Mitte (West)`,| Die Zuordung zu den Regionen ist für jedes Bundesland in den der [Grippeweb_Zuordung_Regionen.tsv](https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts/blob/main/Kontextmaterialien/GrippeWeb_Zuordung_Regionen.tsv) hinterlegt.|
+|Altersgruppe |Text|`00+`, `0-14`, `15+`, `0-4`, `5-14`, `15-34`, `35-59`, `60+`|Altersgruppen der Befragten. `00+`: Gesamt, `0-14`: Null bis 14 Jahre, `15+`: Älter als 15 Jahre, `60+`: Älter als 60 Jahre|
+|Inzidenz     |Rationale Zahl|`>0`       |Nach jeweiliger Bevölkerungsstruktur gewichtete Inzidenz pro 100.000 Einw.|
+|Meldungen    |Rationale Zahl|`>0`       |Anzahl der Meldungen pro Kalenderwoche|
+|Saison       |Text          |`jjjj/jjjj`|Saison jeweils von Kalenderwoche 40 bis Kalenderwoche 39 des Folgejahres (z.B. Saison 2012/13 = 2012W40 bis 2013W39) |
 
 #### Formatierung
 
 Die Daten sind im Datensatz als tabseparierte .tsv Datei enthalten. Der verwendete Zeichensatz der .tsv Datei ist UTF-8. Trennzeichen der einzelnen Werte ist ein Tab "\t". Datumsangaben entsprechen dem Standard ISO-8601.  
 
 - Zeichensatz: UTF-8
-- .tsv Trennzeichen: Komma "\t"
+- .tsv Trennzeichen: Tabulator, "\t"
 
 ### Metadaten
 
