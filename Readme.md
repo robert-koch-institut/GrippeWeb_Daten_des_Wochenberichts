@@ -5,23 +5,23 @@ Datensatzdokumentation
 Nordufer 20  
 13353 Berlin  
 
-[Udo Buchholz](https://orcid.org/0000-0001-6597-3995), [Silke Buda](https://orcid.org/0000-0003-3448-3357), [Ann-Sophie Lehfeld](https://orcid.org/0000-0002-1686-0289), [Anna Loenenbach](https://orcid.org/0000-0002-6455-8527), [Kerstin Prahm](https://orcid.org/0009-0005-7038-4315), Ute Preuß und [Walter Haas](https://orcid.org/0000-0003-3413-1431) 
-[**Fachgebiet 36 | Respiratorisch übertragbare Erkrankungen**](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/FG36/FG36_node.html)  
+[Udo Buchholz](https://orcid.org/0000-0001-6597-3995), [Silke Buda](https://orcid.org/0000-0003-3448-3357), [Ann-Sophie Lehfeld](https://orcid.org/0000-0002-1686-0289), [Anna Loenenbach](https://orcid.org/0000-0002-6455-8527), [Kerstin Prahm](https://orcid.org/0009-0005-7038-4315), Ute Preuß und [Walter Haas](https://orcid.org/0000-0003-3413-1431)   
+[**Fachgebiet 36 | Respiratorisch übertragbare Erkrankungen**](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/FG36/FG36_node.html)  
 
 ---
 
 **Zitieren**  
-Buchholz U, Buda S, Lehfeld AS, Loenenbach A, Prahm K, Preuß U, Haas W (2023): GrippeWeb - Daten des Wochenberichts, Berlin: Zenodo. [DOI: 10.5281/zenodo.8365629](https://doi.org/10.5281/zenodo.8365629)  
+Buchholz U, Buda S, Lehfeld AS, Loenenbach A, Prahm K, Preuß U, Haas W (2023): GrippeWeb - Daten des Wochenberichts, Berlin: Zenodo. DOI:[10.5281/zenodo.8385273](https://doi.org/10.5281/zenodo.8385273)  
 
 ## Einleitung  
-GrippeWeb ist ein Online-Portal des Robert Koch-Instituts (RKI). Es wurde im Jahr 2011 gegründet und ist das erste Webportal, das die Aktivität akuter Atemwegserkrankungen (ARE) in Deutschland beobachtet, und dabei Informationen direkt aus der Bevölkerung verwendet. Es ist ein robustes und zeitnahes System der partizipativen syndromischen Surveillance, welches aus den ganzjährigen wöchentlichen Selbstauskünften von Bürgerinnen und Bürgern gespeist wird und somit unabhängig von einer ärztlichen Konsultation ist. GrippeWeb wurde vom RKI u. a. als Überwachungsinstrument in der Vorbereitung und Bewältigung zukünftiger Pandemien entwickelt und als dieses auch zur Lagebewertung und Risikoeinschätzung der Coronavirus Disease 2019 (COVID-19) Pandemie genutzt.   
+GrippeWeb ist ein Online-Portal des Robert Koch-Instituts (RKI). Es wurde im Jahr 2011 gegründet und ist das erste Webportal, das die Aktivität akuter Atemwegserkrankungen (ARE) in Deutschland beobachtet, und dabei Informationen direkt aus der Bevölkerung verwendet. Es ist ein robustes und zeitnahes System der partizipativen syndromischen Surveillance, welches aus den ganzjährigen wöchentlichen Selbstauskünften von Bürgerinnen und Bürgern gespeist wird und somit unabhängig von einer ärztlichen Konsultation ist. GrippeWeb wurde vom RKI u. a. als Überwachungsinstrument in der Vorbereitung und Bewältigung zukünftiger Pandemien entwickelt und als dieses auch zur Lagebewertung und Risikoeinschätzung der Coronavirus Disease 2019 (COVID-19) Pandemie genutzt.   
 
-Bei GrippeWeb registrierte Teilnehmer und Teilnehmerinnen, werden wöchentlich gefragt, ob sie eine neu aufgetretene Atemwegserkrankung hatten mit Symptomen wie z.B. Husten, Schnupfen, Halsschmerzen oder Fieber, oder ob dies nicht der Fall war. Darüber hinaus werden u.a. potentielle Erregernachweise abgefragt. Über diese Angaben lassen sich wöchentliche gewichtete Inzidenzen (pro 100.000 Einw.) von akuten Atemwegserkrankungen (ARE), und grippeähnlichen Erkrankungen (Influenza-like Illness = ILI) in der Bevölkerung schätzen. Die wöchentlich aktualisierten Ergebnisse werden jeden Freitag im GrippeWeb-Wochenbericht unter www.rki.de/grippeweb veröffentlicht sowie der Datensatz auf GitHub zur Verfügung gestellt.   
+Bei GrippeWeb registrierte Teilnehmer und Teilnehmerinnen, werden wöchentlich gefragt, ob sie eine neu aufgetretene Atemwegserkrankung hatten mit Symptomen wie z.B. Husten, Schnupfen, Halsschmerzen oder Fieber, oder ob dies nicht der Fall war. Darüber hinaus werden u.a. potentielle Erregernachweise abgefragt. Über diese Angaben lassen sich wöchentliche gewichtete Inzidenzen (pro 100.000 Einw.) von akuten Atemwegserkrankungen (ARE), und grippeähnlichen Erkrankungen (Influenza-like Illness = ILI) in der Bevölkerung schätzen. Die wöchentlich aktualisierten Ergebnisse werden jeden Freitag im GrippeWeb-Wochenbericht unter www.rki.de/grippeweb veröffentlicht sowie der Datensatz auf GitHub zur Verfügung gestellt.   
 
 ## Informationen zum Datensatz und Entstehungskontext  
 
 ### Projektbeteiligte und Rollenbesetzung  
-Die Daten zum GrippeWeb-Wochenbericht werden vom Robert Koch-Institut herausgegeben. Die Konzeptionierung der Datenerhebung, das Datenmanagement, die Validierung der Daten und die fachliche Bewertung der Ergebnisse erfolgen im [Fachgebiet 36 | Respiratorisch übertragbare Erkrankungen](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/FG36/FG36_node.html) des RKI. Fragen bezüglich der Datenerhebung im GrippeWeb können an [GrippeWeb@rki.de](mailto:GrippeWeb@rki.de) gerichtet werden.   
+Die Daten zum GrippeWeb-Wochenbericht werden vom Robert Koch-Institut herausgegeben. Die Konzeptionierung der Datenerhebung, das Datenmanagement, die Validierung der Daten und die fachliche Bewertung der Ergebnisse erfolgen im [Fachgebiet 36 | Respiratorisch übertragbare Erkrankungen](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/FG36/FG36_node.html) des RKI. Fragen bezüglich der Datenerhebung im GrippeWeb können an [GrippeWeb@rki.de](mailto:GrippeWeb@rki.de) gerichtet werden.   
 
 Das Informationstechnikzentrum Bund (ITZBund), als IT-Dienstleister für Bundesbehörden, ist für die technische Bereitstellung der Webseite https://grippeweb.bund.de zuständig (Hosting und Betrieb). Der Datentransfer von ITZBund zum RKI erfolgt über [Fachgebiet IT4 | Softwarearchitektur und -entwicklung](https://www.rki.de/DE/Content/Institut/OrgEinheiten/MFI/IT4/it4_node.html) des RKI.  
 
@@ -50,7 +50,7 @@ Es werden einmalig folgende Daten erhoben (die Angaben können später bei Bedar
 Eine Bearbeitung bereits beantworteter wöchentlicher Fragen oder eine nachträgliche Beantwortung von Fragen ist für die vergangenen vier Kalenderwochen möglich.  
 
 ### Datenauswertung
-Zur Einschätzung der Krankheitslast in der Bevölkerung, unabhängig von einem Arztbesuch, werden die Inzidenzen zu akuten Atemwegserkrankungen  und grippeähnlichen Erkrankungen mithilfe der erhobenen GrippeWeb-Daten berechnet.  
+Zur Einschätzung der Krankheitslast in der Bevölkerung, unabhängig von einem Arztbesuch, werden die Inzidenzen zu akuten Atemwegserkrankungen  und grippeähnlichen Erkrankungen mithilfe der erhobenen GrippeWeb-Daten berechnet.  
 
 #### Falldefinitionen
 Falldefinitionen haben zum Ziel, im Rahmen der epidemiologischen Überwachung, einheitliche Kriterien für die Bewertung bzw. zuordnen von Infektionskrankheiten sicherzustellen. Damit sollen sie zu standardisierten Bewertungen, aussagekräftigeren Statistiken und letztlich objektiveren Entscheidungen beitragen. Für GrippeWeb wurden folgende Falldefinitionen für akute respiratorische Erkrankung (ARE) und Influenza-Like Illness (ILI) festgelegt:
@@ -76,7 +76,7 @@ Wenn innerhalb von zwei aufeinander folgenden Wochen eine ARE/ILI gemeldet wird,
 
 **Relevante Publikationen** 
 
-> Bayer C, Remschmidt C, an der Heiden M, Tolksdorf K, Herzhoff M, Kaersten S, Buda S, Haas W, Buchholz U. Internet-based syndromic monitoring of acute respiratory illness in the general population of Germany, weeks 35/2011 to 34/2012. Euro Surveill. 2014;19(4):pii=20684. | [DOI: 10.2807/1560-7917.ES2014.19.4.20684](https://doi.org/10.2807/1560-7917.ES2014.19.4.20684).   
+> Bayer C, Remschmidt C, an der Heiden M, Tolksdorf K, Herzhoff M, Kaersten S, Buda S, Haas W, Buchholz U. Internet-based syndromic monitoring of acute respiratory illness in the general population of Germany, weeks 35/2011 to 34/2012. Euro Surveill. 2014;19(4):pii=20684. | [DOI: 10.2807/1560-7917.ES2014.19.4.20684](https://doi.org/10.2807/1560-7917.ES2014.19.4.20684).   
 
 > Buchholz U, Gau P, Buda S, Prahm K: GrippeWeb als wichtiges Instrument in der Vorbereitung und Bewältigung einer zukünftigen Pandemie. Epid Bull 2017;27:239-247 | [DOI: 10.17886/EpiBull-2017-035.2](https://doi.org/10.17886/EpiBull-2017-035.2).  
 
@@ -98,7 +98,7 @@ Die Daten des GrippeWeb-Wochenberichts sind nach folgenden Merkmalen differenzie
 - Art der respiratorischen Erkrankung
 - Gruppe (Altersgruppe)
 - Räumliche Zuordnung (Region)
-- Bezugszeitraum Zeitraum (Jahr/Kalenderwoche)   
+- Bezugszeitraum Zeitraum (Jahr/Kalenderwoche)   
 
 Die Daten bilden den wöchentlichen Stand (00:00 Uhr) aller Meldungen von GrippeWeb-Teilnehmenden ab.  
 
