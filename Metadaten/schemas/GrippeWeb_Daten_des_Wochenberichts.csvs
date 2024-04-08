@@ -1,0 +1,10 @@
+version 1.1
+@totalColumns 7
+@separator TAB
+Meldungen: positiveInteger
+Saison: regex("[0-9]{4}/[0-9]{2}")
+Erkrankung: any("ARE", "ILI")
+Altersgruppe: any("00+", "0-14", "15+", "0-4", "5-14", "15-34", "35-59", "60+")
+Region: any("Bundesweit", "Sueden", "Osten", "Norden (West)", "Mitte (West)")
+Kalenderwoche: regex("[0-9]{4}-W[0-9]{2}")
+Inzidenz: positiveInteger
