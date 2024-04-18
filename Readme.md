@@ -11,7 +11,7 @@ Nordufer 20
 ---
 
 **Zitieren**  
-Buchholz U, Buda S, Lehfeld AS, Loenenbach A, Prahm K, Preuß U, Haas W (2024): GrippeWeb - Daten des Wochenberichts, Berlin: Zenodo. DOI:[10.5281/zenodo.10958430](https://doi.org/10.5281/zenodo.10958430)  
+Buchholz U, Buda S, Lehfeld AS, Loenenbach A, Prahm K, Preuß U, Haas W (2024): GrippeWeb - Daten des Wochenberichts, Berlin: Zenodo. DOI:[10.5281/zenodo.10990431](https://doi.org/10.5281/zenodo.10990431)  
 
 ## Einleitung  
 GrippeWeb ist ein Online-Portal des Robert Koch-Instituts (RKI). Es wurde im Jahr 2011 gegründet und ist das erste Webportal, das die Aktivität akuter Atemwegserkrankungen (ARE) in Deutschland beobachtet, und dabei Informationen direkt aus der Bevölkerung verwendet. Es ist ein robustes und zeitnahes System der partizipativen syndromischen Surveillance, welches aus den ganzjährigen wöchentlichen Selbstauskünften von Bürgerinnen und Bürgern gespeist wird und somit unabhängig von einer ärztlichen Konsultation ist. GrippeWeb wurde vom RKI u. a. als Überwachungsinstrument in der Vorbereitung und Bewältigung zukünftiger Pandemien entwickelt und als dieses auch zur Lagebewertung und Risikoeinschätzung der Coronavirus Disease 2019 (COVID-19) Pandemie genutzt.   
@@ -110,7 +110,7 @@ Die Daten bilden den wöchentlichen Stand (00:00 Uhr) aller Meldungen von Grippe
 |Variablen    |Typ |Ausprägungen| Beschreibung |
 | ----------- | -- | ---------- | ------------ |
 |Kalenderwoche|Text|`jjjj-Www`  |Kalenderwoche, für die die Meldung abgegeben wurde  |
-|Erkrankung   |Text|`ARE`, `ILI`|Erkrankung nach Falldefinition (Link Falldefinition)|
+|Erkrankung   |Text|`ARE`, `ILI`|[Erkrankung nach Falldefinition](https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts?tab=readme-ov-file#falldefinitionen)|
 |Region       |Text|`Bundesweit`, `Sueden`, `Osten`, `Norden (West)`, `Mitte (West)`,| Die Zuordung zu den Regionen ist für jedes Bundesland in den der [Grippeweb_Zuordung_Regionen.tsv](https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts/blob/main/Kontextmaterialien/GrippeWeb_Zuordung_Regionen.tsv) hinterlegt.|
 |Altersgruppe |Text|`00+`, `0-14`, `15+`, `0-4`, `5-14`, `15-34`, `35-59`, `60+`|Altersgruppen der Befragten. `00+`: Gesamt, `0-14`: Null bis 14 Jahre, `15+`: Älter als 15 Jahre, `60+`: Älter als 60 Jahre|
 |Inzidenz     |Rationale Zahl|`>0`       |Nach jeweiliger Bevölkerungsstruktur gewichtete Inzidenz pro 100.000 Einw.|
