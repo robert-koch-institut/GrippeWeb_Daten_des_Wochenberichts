@@ -11,7 +11,7 @@ Nordufer 20
 ---
 
 **Zitieren**  
-Buchholz U, Buda S, Lehfeld AS, Loenenbach A, Prahm K, Preuß U, Haas W (2024): GrippeWeb - Daten des Wochenberichts, Berlin: Zenodo. DOI:[10.5281/zenodo.11257470](https://doi.org/10.5281/zenodo.11257470)  
+Buchholz U, Buda S, Lehfeld AS, Loenenbach A, Prahm K, Preuß U, Haas W (2024): GrippeWeb - Daten des Wochenberichts, Berlin: Zenodo. DOI:[10.5281/zenodo.11393519](https://doi.org/10.5281/zenodo.11393519)  
 
 ## Einleitung  
 GrippeWeb ist ein Online-Portal des Robert Koch-Instituts (RKI). Es wurde im Jahr 2011 gegründet und ist das erste Webportal, das die Aktivität akuter Atemwegserkrankungen (ARE) in Deutschland beobachtet, und dabei Informationen direkt aus der Bevölkerung verwendet. Es ist ein robustes und zeitnahes System der partizipativen syndromischen Surveillance, welches aus den ganzjährigen wöchentlichen Selbstauskünften von Bürgerinnen und Bürgern gespeist wird und somit unabhängig von einer ärztlichen Konsultation ist. GrippeWeb wurde vom RKI u. a. als Überwachungsinstrument in der Vorbereitung und Bewältigung zukünftiger Pandemien entwickelt und als dieses auch zur Lagebewertung und Risikoeinschätzung der Coronavirus Disease 2019 (COVID-19) Pandemie genutzt.   
