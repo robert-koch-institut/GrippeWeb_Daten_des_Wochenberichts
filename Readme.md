@@ -1,17 +1,21 @@
 Datensatzdokumentation  
 # GrippeWeb - Daten des Wochenberichts
 
-[Robert Koch-Institut | RKI](https://www.rki.de/)  
+[Robert Koch-Institut | RKI](https://www.rki.de/)  	
 Nordufer 20  
 13353 Berlin  
 
-[Udo Buchholz](https://orcid.org/0000-0001-6597-3995), [Silke Buda](https://orcid.org/0000-0003-3448-3357), [Ann-Sophie Lehfeld](https://orcid.org/0000-0002-1686-0289), [Anna Loenenbach](https://orcid.org/0000-0002-6455-8527), [Kerstin Prahm](https://orcid.org/0009-0005-7038-4315), Ute Preuß und [Walter Haas](https://orcid.org/0000-0003-3413-1431)   
-[**Fachgebiet 36 | Respiratorisch übertragbare Erkrankungen**](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/FG36/FG36_node.html)  
+<br>
 
----
+[**Udo Buchholz**](https://orcid.org/0000-0001-6597-3995)&sup1;, [**Silke Buda**](https://orcid.org/0000-0003-3448-3357)&sup1;, [**Ann-Sophie Lehfeld**](https://orcid.org/0000-0002-1686-0289)&sup1;, [**Anna Loenenbach**](https://orcid.org/0000-0002-6455-8527)&sup1;, [**Kerstin Prahm**](https://orcid.org/0009-0005-7038-4315)&sup1;, **Ute Preuß**&sup1; und [**Walter Haas**](https://orcid.org/0000-0003-3413-1431)&sup1;   
 
-**Zitieren**  
-Buchholz U, Buda S, Lehfeld AS, Loenenbach A, Prahm K, Preuß U, Haas W (2024): GrippeWeb - Daten des Wochenberichts, Berlin: Zenodo. DOI:[10.5281/zenodo.12720548](https://doi.org/10.5281/zenodo.12720548)  
+&emsp;&sup1; [Robert Koch-Institut | Fachgebiet 36](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/FG36/FG36_node.html)  
+
+---  
+
+**Zitieren**   
+Buchholz U, Buda S, Lehfeld AS, Loenenbach A, Prahm K, Preuß U, Haas W (**2024**): GrippeWeb - Daten des Wochenberichts, Berlin: Zenodo. DOI:[10.5281/zenodo.12770834](https://doi.org/10.5281/zenodo.12770834)  
+
 
 ## Einleitung  
 GrippeWeb ist ein Online-Portal des Robert Koch-Instituts (RKI). Es wurde im Jahr 2011 gegründet und ist das erste Webportal, das die Aktivität akuter Atemwegserkrankungen (ARE) in Deutschland beobachtet, und dabei Informationen direkt aus der Bevölkerung verwendet. Es ist ein robustes und zeitnahes System der partizipativen syndromischen Surveillance, welches aus den ganzjährigen wöchentlichen Selbstauskünften von Bürgerinnen und Bürgern gespeist wird und somit unabhängig von einer ärztlichen Konsultation ist. GrippeWeb wurde vom RKI u. a. als Überwachungsinstrument in der Vorbereitung und Bewältigung zukünftiger Pandemien entwickelt und als dieses auch zur Lagebewertung und Risikoeinschätzung der Coronavirus Disease 2019 (COVID-19) Pandemie genutzt.   
