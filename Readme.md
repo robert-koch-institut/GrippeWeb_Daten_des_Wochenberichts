@@ -1,7 +1,7 @@
 Datensatzdokumentation  
 # GrippeWeb - Daten des Wochenberichts
 
-[Robert Koch-Institut | RKI](https://www.rki.de/)  	
+[Robert Koch-Institut | RKI](https://www.rki.de/)    	
 Nordufer 20  
 13353 Berlin  
 
