@@ -111,15 +111,16 @@ Die Daten bilden den wöchentlichen Stand (00:00 Uhr) aller Meldungen von Grippe
 
 ### Variablen und Variablenausprägungen
 
-|Variablen    |Typ |Ausprägungen| Beschreibung |
+| Variablen    | Typ | Ausprägungen| Beschreibung |
 | ----------- | -- | ---------- | ------------ |
-|Kalenderwoche|Text|`jjjj-Www`  |Kalenderwoche, für die die Meldung abgegeben wurde  |
-|Erkrankung   |Text|`ARE`, `ILI`|[Erkrankung nach Falldefinition](https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts?tab=readme-ov-file#falldefinitionen)|
-|Region       |Text|`Bundesweit`, `Sueden`, `Osten`, `Norden (West)`, `Mitte (West)`,| Die Zuordung zu den Regionen ist für jedes Bundesland in den der [Grippeweb_Zuordung_Regionen.tsv](https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts/blob/main/Kontextmaterialien/GrippeWeb_Zuordung_Regionen.tsv) hinterlegt.|
-|Altersgruppe |Text|`00+`, `0-14`, `15+`, `0-4`, `5-14`, `15-34`, `35-59`, `60+`|Altersgruppen der Befragten. `00+`: Gesamt, `0-14`: Null bis 14 Jahre, `15+`: Älter als 15 Jahre, `60+`: Älter als 60 Jahre|
-|Inzidenz     |Rationale Zahl|`>0`       |Nach jeweiliger Bevölkerungsstruktur gewichtete Inzidenz pro 100.000 Einw.|
-|Meldungen    |Rationale Zahl|`>0`       |Anzahl der Meldungen pro Kalenderwoche|
-|Saison       |Text          |`jjjj/jj`|Saison jeweils von Kalenderwoche 40 bis Kalenderwoche 39 des Folgejahres (z.B. Saison 2012/13 = 2012W40 bis 2013W39) |
+| Meldungen    | Rationale Zahl | `>0`  |Anzahl der Meldungen pro Kalenderwoche|
+| Saison       | Text  |`jjjj/jj`| Saison jeweils von Kalenderwoche 40 bis Kalenderwoche 39 des Folgejahres (z.B. Saison 2012/13 = 2012W40 bis 2013W39) |
+| Erkrankung   | Text |`ARE`, `ILI`|[Erkrankung nach Falldefinition](https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts?tab=readme-ov-file#falldefinitionen)|
+| Altersgruppe | Text |`00+`, `0-14`, `15+`, `0-4`, `5-14`, `15-34`, `35-59`, `60+`|Altersgruppen der Befragten. `00+`: Gesamt, `0-14`: Null bis 14 Jahre, `15+`: Älter als 15 Jahre, `60+`: Älter als 60 Jahre|
+| Region | Text |`Bundesweit`, `Sueden`, `Osten`, `Norden (West)`, `Mitte (West)`,| Die Zuordung zu den Regionen ist für jedes Bundesland in den der [Grippeweb_Zuordung_Regionen.tsv](https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts/blob/main/Kontextmaterialien/GrippeWeb_Zuordung_Regionen.tsv) hinterlegt.|
+| Kalenderwoche| Text |`jjjj-Www`  | Kalenderwoche, für die die Meldung abgegeben wurde  |
+| Inzidenz | Rationale Zahl |`>0`       |Nach jeweiliger Bevölkerungsstruktur gewichtete Inzidenz pro 100.000 Einw. |
+
 
 #### Formatierung
 
