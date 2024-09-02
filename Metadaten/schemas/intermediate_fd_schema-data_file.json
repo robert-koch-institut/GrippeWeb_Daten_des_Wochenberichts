@@ -1,0 +1,32 @@
+{
+  "fields": [
+    {
+      "name": "Meldungen",
+      "type": "integer"
+    },
+    {
+      "name": "Saison",
+      "type": "string"
+    },
+    {
+      "name": "Erkrankung",
+      "type": "string"
+    },
+    {
+      "name": "Altersgruppe",
+      "type": "string"
+    },
+    {
+      "name": "Region",
+      "type": "string"
+    },
+    {
+      "name": "Kalenderwoche",
+      "type": "string"
+    },
+    {
+      "name": "Inzidenz",
+      "type": "integer"
+    }
+  ]
+}

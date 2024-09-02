@@ -10,8 +10,9 @@
     },
     {
       "name": "Saison",
-      "type": "string",
-      "description": "Saison jeweils von Kalenderwoche 40 bis Kalenderwoche 39 des Folgejahres (z.B. Saison 2012/13 = 2012W40 bis 2013W39)"
+      "type": "date",
+      "description": "Saison jeweils von Kalenderwoche 40 bis Kalenderwoche 39 des Folgejahres (z.B. Saison 2012/13 = 2012W40 bis 2013W39)",
+      "format": "%Y/%y"
     },
     {
       "name": "Erkrankung",
@@ -57,15 +58,16 @@
     },
     {
       "name": "Kalenderwoche",
-      "type": "string",
-      "description": "Kalenderwoche, für die die Meldung abgegeben wurde"
+      "type": "date",
+      "description": "Kalenderwoche, für die die Meldung abgegeben wurde",
+      "format": "%Y-W%W"
     },
     {
       "name": "Inzidenz",
       "type": "number",
       "description": "Nach jeweiliger Bevölkerungsstruktur gewichtete Inzidenz pro 100.000 Einw.",
       "constraints": {
-        "minimum": 1
+        "minimum": 0
       }
     }
   ]
