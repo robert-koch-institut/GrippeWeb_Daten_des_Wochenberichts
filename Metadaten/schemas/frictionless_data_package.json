@@ -1,7 +1,7 @@
 {
   "name": "grippeweb_daten_des_wochenberichts",
   "title": "GrippeWeb_Daten_des_Wochenberichts",
-  "description": "Frictionless data package. This package lists and describes all data files in this open data repository. For more information on frictionless data, see https://specs.frictionlessdata.io/ and https://framework.frictionlessdata.io/.",
+  "description": "Diese Datei gibt eine Übersicht über alle Datensätze in diesem Open Data Repository. Informationen zum Frictionless Data Standard finden Sie unter https://specs.frictionlessdata.io/ und https://framework.frictionlessdata.io/.",
   "resources": [
     {
       "name": "grippeweb_daten_des_wochenberichts",
