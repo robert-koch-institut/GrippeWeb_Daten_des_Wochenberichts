@@ -1,0 +1,17 @@
+{
+  "name": "10.5281/zenodo.8340322",
+  "title": "GrippeWeb - Daten des Wochenberichts",
+  "description": "Diese Datei gibt eine Übersicht über alle Datensätze in diesem Open Data Repository. Informationen zum Frictionless Data Standard finden Sie unter https://specs.frictionlessdata.io/ und https://framework.frictionlessdata.io/. Mehr Information über diesen Datensatz finden sie auf Zenodo (https://doi.org/10.5281/zenodo.8340322) oder Github (https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts)",
+  "homepage": "https://doi.org/10.5281/zenodo.8340322",
+  "resources": [
+    {
+      "name": "grippeweb_daten_des_wochenberichts",
+      "type": "table",
+      "path": "../GrippeWeb_Daten_des_Wochenberichts.tsv",
+      "scheme": "file",
+      "format": "tsv",
+      "mediatype": "text/csv",
+      "schema": "schemas/frictionless_data_schema_GrippeWeb_Daten_des_Wochenberichts.json"
+    }
+  ]
+}
