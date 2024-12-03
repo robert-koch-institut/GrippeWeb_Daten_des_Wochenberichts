@@ -1,7 +1,7 @@
 {
   "name": "10.5281/zenodo.8340322",
   "title": "GrippeWeb - Daten des Wochenberichts",
-  "description": "Diese Datei gibt eine Übersicht über die Datensätze in diesem Open Data Repository. Informationen zum Data Package Standard finden Sie unter https://datapackage.org/. Mehr Information über diesen Datensatz finden sie auf Zenodo (https://doi.org/10.5281/zenodo.8340322) oder Github (https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts)",
+  "description": "Diese Datei gibt eine Übersicht über die im Datensatz enthaltenen Daten im Data Package Standard (https://datapackage.org). Der dokumentierte Datensatz ist auf den Plattformen Zenodo (https://doi.org/10.5281/zenodo.8340322) und Github (https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts) verfügbar.",
   "homepage": "https://doi.org/10.5281/zenodo.8340322",
   "resources": [
     {
