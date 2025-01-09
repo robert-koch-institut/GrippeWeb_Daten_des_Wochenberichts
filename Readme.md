@@ -14,7 +14,7 @@ Nordufer 20
 ---  
 
 **Zitieren**   
-Buchholz U, Buda S, Lehfeld AS, Loenenbach A, Prahm K, Preuß U, Haas W (**2024**): GrippeWeb - Daten des Wochenberichts, Berlin: Zenodo. DOI:[10.5281/zenodo.14586599](https://doi.org/10.5281/zenodo.14586599)  
+Buchholz U, Buda S, Lehfeld AS, Loenenbach A, Prahm K, Preuß U, Haas W (**2024**): GrippeWeb - Daten des Wochenberichts, Berlin: Zenodo. DOI:[10.5281/zenodo.14619770](https://doi.org/10.5281/zenodo.14619770)  
 
 
 ## Einleitung  
