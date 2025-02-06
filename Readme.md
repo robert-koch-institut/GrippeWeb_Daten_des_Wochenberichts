@@ -15,7 +15,7 @@ Nordufer 20
 
 **Zitieren**   
 <!-- CITATION_START: {"citation_style": "apa"} -->
-Buchholz, U., Buda, S., Lehfeld, A., Loenenbach, A., Prahm, K., Preuß, U., & Haas, W. (2025). GrippeWeb - Daten des Wochenberichts [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.14769951](https://doi.org/10.5281/zenodo.14769951)
+Buchholz, U., Buda, S., Lehfeld, A., Loenenbach, A., Prahm, K., Preuß, U., & Haas, W. (2025). GrippeWeb - Daten des Wochenberichts [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.14823355](https://doi.org/10.5281/zenodo.14823355)
 <!-- CITATION_END -->
 
 

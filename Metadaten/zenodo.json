@@ -57,8 +57,8 @@
     "Open Data",
     "Offen Daten"
   ],
-  "publication_date": "2025-01-30",
-  "version": "2025-01-28",
+  "publication_date": "2025-02-06",
+  "version": "2025-02-04",
   "upload_type": "dataset",
   "access_right": "open",
   "license": "CC-BY-4.0",
@@ -88,8 +88,8 @@
   ],
   "dates": [
     {
-      "start": "2025-01-28T10:38:07+01:00",
-      "end": "2025-01-28T10:38:07+01:00",
+      "start": "2025-02-04T10:39:01+01:00",
+      "end": "2025-02-04T10:39:01+01:00",
       "type": "Created",
       "description": "Date when the published data was created"
     }
