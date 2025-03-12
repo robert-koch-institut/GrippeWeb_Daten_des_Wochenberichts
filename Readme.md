@@ -9,7 +9,7 @@ Nordufer 20
 
 [**Udo Buchholz**](https://orcid.org/0000-0001-6597-3995)&sup1;, [**Silke Buda**](https://orcid.org/0000-0003-3448-3357)&sup1;, [**Ann-Sophie Lehfeld**](https://orcid.org/0000-0002-1686-0289)&sup1;, [**Anna Loenenbach**](https://orcid.org/0000-0002-6455-8527)&sup1;, [**Kerstin Prahm**](https://orcid.org/0009-0005-7038-4315)&sup1;, **Ute Preuß**&sup1; und [**Walter Haas**](https://orcid.org/0000-0003-3413-1431)&sup1;   
 
-&emsp;&emsp;&sup1; [Robert Koch-Institut | Fachgebiet 36](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/FG36/FG36_node.html)  
+&emsp;&emsp;&sup1; [Robert Koch-Institut | Fachgebiet 36](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-3/FG36/fg36-respiratorisch-uebertragbare-erkrankungen-node.html)  
 
 ---  
 
@@ -27,11 +27,11 @@ Bei GrippeWeb registrierte Teilnehmer und Teilnehmerinnen, werden wöchentlich g
 ## Informationen zum Datensatz und Entstehungskontext  
 
 ### Projektbeteiligte und Rollenbesetzung  
-Die Daten zum GrippeWeb-Wochenbericht werden vom Robert Koch-Institut herausgegeben. Die Konzeptionierung der Datenerhebung, das Datenmanagement, die Validierung der Daten und die fachliche Bewertung der Ergebnisse erfolgen im [Fachgebiet 36 | Respiratorisch übertragbare Erkrankungen](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/FG36/FG36_node.html) des RKI. Fragen bezüglich der Datenerhebung im GrippeWeb können an [GrippeWeb@rki.de](mailto:GrippeWeb@rki.de) gerichtet werden.   
+Die Daten zum GrippeWeb-Wochenbericht werden vom Robert Koch-Institut herausgegeben. Die Konzeptionierung der Datenerhebung, das Datenmanagement, die Validierung der Daten und die fachliche Bewertung der Ergebnisse erfolgen im [Fachgebiet 36 | Respiratorisch übertragbare Erkrankungen](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-3/FG36/fg36-respiratorisch-uebertragbare-erkrankungen-node.html) des RKI. Fragen bezüglich der Datenerhebung im GrippeWeb können an [GrippeWeb@rki.de](mailto:GrippeWeb@rki.de) gerichtet werden.   
 
-Das Informationstechnikzentrum Bund (ITZBund), als IT-Dienstleister für Bundesbehörden, ist für die technische Bereitstellung der Webseite https://grippeweb.bund.de zuständig (Hosting und Betrieb). Der Datentransfer von ITZBund zum RKI erfolgt über [Fachgebiet IT4 | Softwarearchitektur und -entwicklung](https://www.rki.de/DE/Content/Institut/OrgEinheiten/MFI/IT4/it4_node.html) des RKI.  
+Das Informationstechnikzentrum Bund (ITZBund), als IT-Dienstleister für Bundesbehörden, ist für die technische Bereitstellung der Webseite https://grippeweb.bund.de zuständig (Hosting und Betrieb). Der Datentransfer von ITZBund zum RKI erfolgt über [Fachgebiet IT4 | Softwarearchitektur und -entwicklung](https://www.rki.de/DE/Institut/Organisation/Abteilungen/MFI/IT4/it4-softwarearchitektur-und-entwicklung-node.html) des RKI.  
 
-Die Veröffentlichung des Datensatzes, die Datenkuration sowie das Qualitätsmanagement der (Meta-)Daten erfolgen durch das Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement]([https://www.rki.de/DE/Content/Institut/OrgEinheiten/MFI/MF4/mf4_node.html]()). Fragen zum Datenmanagement und zur Publikationsinfrastruktur können an das Open Data Team des Fachgebiets MF4 unter [OpenData@rki.de](mailto:OpenData@rki.de) gerichtet werden.  
+Die Veröffentlichung des Datensatzes, die Datenkuration sowie das Qualitätsmanagement der (Meta-)Daten erfolgen durch das Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement]([https://www.rki.de/DE/Institut/Organisation/Abteilungen/MFI/MF4/mf4-fach-und-forschungsdatenmanagement-node.html]()). Fragen zum Datenmanagement und zur Publikationsinfrastruktur können an das Open Data Team des Fachgebiets MF4 unter [OpenData@rki.de](mailto:OpenData@rki.de) gerichtet werden.  
 
 ### Teilnehmende  
 GrippeWeb ist ein Online-Surveillance-Instrument. Die Teilnahme an der Datenerhebung ist freiwillig und erfolgt pseudonym auf Grundlage einer Einwilligung. Alle Teilnehmenden erhalten einmal wöchentlich (montagmorgens) eine E-Mail mit einem Link zur [GrippeWeb-Webseite](https://grippeweb.bund.de) und der Bitte, online Auskunft zu geben, u. a. ob in der Vorwoche Symptome einer akuten Atemwegserkrankung aufgetreten sind oder nicht. Die Beantwortung kann nur nach persönlicher Anmeldung mit E-Mail-Adresse und Passwort erfolgen und dauert in der Regel weniger als eine Minute.   
