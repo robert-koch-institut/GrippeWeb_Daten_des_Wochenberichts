@@ -57,8 +57,8 @@
     "Open Data",
     "Offen Daten"
   ],
-  "publication_date": "2025-01-30",
-  "version": "2025-01-28",
+  "publication_date": "2025-03-20",
+  "version": "2025-03-18",
   "upload_type": "dataset",
   "access_right": "open",
   "license": "CC-BY-4.0",
@@ -88,8 +88,8 @@
   ],
   "dates": [
     {
-      "start": "2025-01-28T10:38:07+01:00",
-      "end": "2025-01-28T10:38:07+01:00",
+      "start": "2025-03-18T04:43:20+01:00",
+      "end": "2025-03-18T04:43:20+01:00",
       "type": "Created",
       "description": "Date when the published data was created"
     }
@@ -99,16 +99,6 @@
       "relation": "isSupplementTo",
       "identifier": "https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts",
       "resource_type": "dataset"
-    },
-    {
-      "relation": "isDocumentedBy",
-      "identifier": "https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts/blob/main/Readme.md",
-      "resource_type": "publication-report"
-    },
-    {
-      "relation": "isDocumentedBy",
-      "identifier": "https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts/blob/main/[Dokumentation]_GrippeWeb_Daten_des_Wochenberichts.pdf",
-      "resource_type": "publication-report"
     },
     {
       "relation": "isDescribedBy",
