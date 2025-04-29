@@ -7,7 +7,7 @@ Nordufer 20
 
 <br>
 
-[**Udo Buchholz**](https://orcid.org/0000-0001-6597-3995)&sup1;, [**Silke Buda**](https://orcid.org/0000-0003-3448-3357)&sup1;, [**Ann-Sophie Lehfeld**](https://orcid.org/0000-0002-1686-0289)&sup1;, [**Anna Loenenbach**](https://orcid.org/0000-0002-6455-8527)&sup1;, [**Kerstin Prahm**](https://orcid.org/0009-0005-7038-4315)&sup1;, **Ute Preuß**&sup1; und [**Walter Haas**](https://orcid.org/0000-0003-3413-1431)&sup1;   
+[**Udo Buchholz**](https://orcid.org/0000-0001-6597-3995)&sup1;, [**Ann-Sophie Lehfeld**](https://orcid.org/0000-0002-1686-0289)&sup1;, [**Anna Loenenbach**](https://orcid.org/0000-0002-6455-8527)&sup1;, [**Kerstin Prahm**](https://orcid.org/0009-0005-7038-4315)&sup1;, **Ute Preuß**&sup1; und [**Walter Haas**](https://orcid.org/0000-0003-3413-1431)&sup1;   
 
 &emsp;&emsp;&sup1; [Robert Koch-Institut | Fachgebiet 36](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-3/FG36/fg36-respiratorisch-uebertragbare-erkrankungen-node.html)  
 
@@ -15,7 +15,7 @@ Nordufer 20
 
 **Zitieren**   
 <!-- CITATION_START: {"citation_style": "apa"} -->
-Buchholz, U., Buda, S., Lehfeld, A., Loenenbach, A., Prahm, K., Preuß, U., & Haas, W. (2025). GrippeWeb - Daten des Wochenberichts [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.15273637](https://doi.org/10.5281/zenodo.15273637)
+Buchholz, U., Lehfeld, A., Loenenbach, A., Prahm, K., Preuß, U., & Haas, W. (2025). GrippeWeb - Daten des Wochenberichts [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.15273637](https://doi.org/10.5281/zenodo.15273637)
 <!-- CITATION_END -->
 
 
