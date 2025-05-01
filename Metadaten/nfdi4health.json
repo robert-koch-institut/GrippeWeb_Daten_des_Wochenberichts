@@ -20,7 +20,7 @@
     ],
     "ids": [
       {
-        "identifier": "10.5281/zenodo.15273637",
+        "identifier": "10.5281/zenodo.15314810",
         "typeGeneral": "Dataset",
         "relationType": "A references B",
         "scheme": "DOI"
@@ -121,7 +121,7 @@
         },
         "label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)"
       },
-      "version": "2025-04-22"
+      "version": "2025-04-29"
     },
     "webpage": "https://robert-koch-institut.github.io/GrippeWeb_Daten_des_Wochenberichts/",
     "contributors": [
@@ -139,25 +139,6 @@
           "identifiers": [
             {
               "identifier": "0000-0001-6597-3995",
-              "scheme": "ORCID"
-            }
-          ]
-        }
-      },
-      {
-        "affiliations": [
-          {
-            "name": "Robert Koch-Institut"
-          }
-        ],
-        "nameType": "Personal",
-        "personal": {
-          "type": "Creator/Author",
-          "givenName": "Silke",
-          "familyName": "Buda",
-          "identifiers": [
-            {
-              "identifier": "0000-0003-3448-3357",
               "scheme": "ORCID"
             }
           ]

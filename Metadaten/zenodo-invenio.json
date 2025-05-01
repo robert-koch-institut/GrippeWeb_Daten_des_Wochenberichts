@@ -4,7 +4,7 @@
   "resource_type": {
     "id": "dataset"
   },
-  "publication_date": "2025-04-24",
+  "publication_date": "2025-05-01",
   "creators": [
     {
       "person_or_org": {
@@ -15,25 +15,6 @@
           {
             "scheme": "orcid",
             "identifier": "0000-0001-6597-3995"
-          }
-        ]
-      },
-      "affiliations": [
-        {
-          "name": "Robert Koch-Institut",
-          "id": "01k5qnb77"
-        }
-      ]
-    },
-    {
-      "person_or_org": {
-        "type": "personal",
-        "family_name": "Buda",
-        "given_name": "Silke",
-        "identifiers": [
-          {
-            "scheme": "orcid",
-            "identifier": "0000-0003-3448-3357"
           }
         ]
       },
@@ -136,10 +117,10 @@
   ],
   "contributors": [],
   "publisher": "Zenodo",
-  "version": "2025-04-24",
+  "version": "2025-05-01",
   "dates": [
     {
-      "date": "2025-04-22T05:50:58+02:00",
+      "date": "2025-04-29T05:52:11+02:00",
       "type": {
         "id": "created"
       },
