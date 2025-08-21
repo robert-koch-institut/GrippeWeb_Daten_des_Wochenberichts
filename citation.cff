@@ -24,7 +24,7 @@ abstract: >-
   aktualisierten Ergebnisse werden jeden Freitag im GrippeWeb-Wochenbericht
   unter www.rki.de/grippeweb (http://www.rki.de/grippeweb) veröffentlicht sowie
   der Datensatz auf GitHub zur Verfügung gestellt.
-date-released: '2025-08-14'
+date-released: '2025-08-21'
 keywords:
   - ARE
   - ILI
@@ -50,8 +50,8 @@ keywords:
 message: Cite me!
 url: https://robert-koch-institut.github.io/GrippeWeb_Daten_des_Wochenberichts/
 license: CC-BY-4.0
-doi: 10.5281/zenodo.16870763
-version: '2025-08-12T05:36:58+02:00'
+doi: 10.5281/zenodo.16917544
+version: '2025-08-19T05:38:43+02:00'
 authors:
   - family-names: Buchholz
     given-names: Udo

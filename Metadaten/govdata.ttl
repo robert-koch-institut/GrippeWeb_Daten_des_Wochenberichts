@@ -11,8 +11,8 @@
                   dcatde:maintainer [ a foaf:Agent ; foaf:mbox "opendata@rki.de" ; foaf:name "Robert Koch-Institut | Open Data Team"] ;
                   dcatde:contributor [ a foaf:Person; foaf:name "Udo Buchholz"; foaf:account <http://orcid.org/0000-0001-6597-3995>; ],[ a foaf:Person; foaf:name "Ann-Sophie Lehfeld"; foaf:account <http://orcid.org/0000-0002-1686-0289>; ],[ a foaf:Person; foaf:name "Anna Loenenbach"; foaf:account <http://orcid.org/0000-0002-6455-8527>; ],[ a foaf:Person; foaf:name "Kerstin Prahm"; foaf:account <http://orcid.org/0009-0005-7038-4315>; ],[ a foaf:Person; foaf:name "Ute Preuß" ],[ a foaf:Person; foaf:name "Walter Haas"; foaf:account <http://orcid.org/0000-0003-3413-1431>; ];
                   dct:description "<p>GrippeWeb ist ein Online-Portal des Robert Koch-Instituts (RKI). Es wurde im Jahr 2011 gegründet und ist das erste Webportal, das die Aktivität akuter Atemwegserkrankungen (ARE) in Deutschland beobachtet, und dabei Informationen direkt aus der Bevölkerung verwendet. Es ist ein robustes und zeitnahes System der partizipativen syndromischen Surveillance, welches aus den ganzjährigen wöchentlichen Selbstauskünften von Bürgerinnen und Bürgern gespeist wird und somit unabhängig von einer ärztlichen Konsultation ist. GrippeWeb wurde vom RKI u. a. als Überwachungsinstrument in der Vorbereitung und Bewältigung zukünftiger Pandemien entwickelt und als dieses auch zur Lagebewertung und Risikoeinschätzung der Coronavirus Disease 2019 (COVID-19) Pandemie genutzt.</p><p>Bei GrippeWeb registrierte Teilnehmer und Teilnehmerinnen, werden wöchentlich gefragt, ob sie eine neu aufgetretene Atemwegserkrankung hatten mit Symptomen wie z.B. Husten, Schnupfen, Halsschmerzen oder Fieber, oder ob dies nicht der Fall war. Darüber hinaus werden u.a. potentielle Erregernachweise abgefragt. Über diese Angaben lassen sich wöchentliche gewichtete Inzidenzen (pro 100.000 Einw.) von akuten Atemwegserkrankungen (ARE), und grippeähnlichen Erkrankungen (Influenza-like Illness = ILI) in der Bevölkerung schätzen. Die wöchentlich aktualisierten Ergebnisse werden jeden Freitag im GrippeWeb-Wochenbericht unter <a href=\"http://www.rki.de/grippeweb\">www.rki.de/grippeweb</a> veröffentlicht sowie der Datensatz auf GitHub zur Verfügung gestellt.</p>" ;
-                  dct:issued "2025-08-14T09:08:01+02:00"^^xsd:dateTime ;
-                  dct:modified "2025-08-12T05:36:58+02:00"^^xsd:dateTime ;
+                  dct:issued "2025-08-21T09:08:02+02:00"^^xsd:dateTime ;
+                  dct:modified "2025-08-19T05:38:43+02:00"^^xsd:dateTime ;
                   dct:publisher [ a foaf:Organization ;
                       foaf:mbox "opendata@rki.de" ;
                       foaf:name "Robert Koch Institut"
@@ -34,35 +34,35 @@
                   dct:license <http://dcat-ap.de/def/licenses/cc-by/4.0>;
                   dcat:distribution [
                     a dcat:Distribution ;
-                    dcatde:licenseAttributionByText "Buchholz, Udo et. al. (2025): GrippeWeb - Daten des Wochenberichts, Berlin: Zenodo. DOI:10.5281/zenodo.16870763" ;
+                    dcatde:licenseAttributionByText "Buchholz, Udo et. al. (2025): GrippeWeb - Daten des Wochenberichts, Berlin: Zenodo. DOI:10.5281/zenodo.16917544" ;
                     dcatde:plannedAvailability <http://dcat-ap.de/def/plannedAvailability/stable> ;
                     dct:description "GitHub ist eine soziales Netzwerk und Plattform, die es ermöglicht, Code-Repositories und Datensätze zu hosten, zu verwalten und zu teilen. Es bietet eine Vielzahl von Funktionen wie Versionskontrolle, Fehlerverfolgung, Zusammenarbeit und Teammanagement. GitHub ist eine der bekanntesten und am häufigsten verwendeten Plattformen für die gemeinsame Entwicklung von Software und Code, insbesondere für Open-Source-Projekte.";
                     dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
                     dct:license <http://dcat-ap.de/def/licenses/cc-by/4.0> ;
                     dct:title "Github - GrippeWeb - Daten des Wochenberichts" ;
                     dcat:accessURL <https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts>;
-                    dct:modified "2025-08-14T09:08:01+02:00"^^xsd:dateTime;
+                    dct:modified "2025-08-21T09:08:02+02:00"^^xsd:dateTime;
                   ],
                   [
                     a dcat:Distribution ;
-                    dcatde:licenseAttributionByText "Buchholz, Udo et. al. (2025): GrippeWeb - Daten des Wochenberichts, Berlin: Zenodo. DOI:10.5281/zenodo.16870763" ;
+                    dcatde:licenseAttributionByText "Buchholz, Udo et. al. (2025): GrippeWeb - Daten des Wochenberichts, Berlin: Zenodo. DOI:10.5281/zenodo.16917544" ;
                     dcatde:plannedAvailability <http://dcat-ap.de/def/plannedAvailability/stable> ;
                     dct:description "Zenodo ist eine europäische Plattform, die es Forschern, Wissenschaftlern und anderen Personen ermöglicht, Forschungsdaten, Publikationen, Präsentationen und andere wissenschaftliche Inhalte kostenlos zu teilen und zu veröffentlichen. Eine der Hauptstärken von Zenodo ist die Bereitstellung der Daten nach den FAIR Prinzipien, Daten sind langzeitarchiviert und wissenschaftlich zitierbar, um den Datenaustausch und die Zusammenarbeit zwischen Forschern zu erleichtern.";
                     dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
                     dct:license <http://dcat-ap.de/def/licenses/cc-by/4.0> ;
                     dct:title "Zenodo - GrippeWeb - Daten des Wochenberichts" ;
                     dcat:accessURL <https://zenodo.org/record/8340323>;
-                    dct:modified "2025-08-14T09:08:01+02:00"^^xsd:dateTime;
+                    dct:modified "2025-08-21T09:08:02+02:00"^^xsd:dateTime;
                   ],
                   [
                     a dcat:Distribution ;
                     dct:title "[Dokumentation] GrippeWeb_-_Daten_des_Wochenberichts.pdf" ;
-                    dcatde:licenseAttributionByText "Buchholz, Udo et. al. (2025): GrippeWeb - Daten des Wochenberichts, Berlin: Zenodo. DOI:10.5281/zenodo.16870763" ;
+                    dcatde:licenseAttributionByText "Buchholz, Udo et. al. (2025): GrippeWeb - Daten des Wochenberichts, Berlin: Zenodo. DOI:10.5281/zenodo.16917544" ;
                     dcatde:plannedAvailability <http://dcat-ap.de/def/plannedAvailability/stable> ;
                     dct:description "Die Datensatzdokumentation enthält Informationen und Hinweise zum Entstehungskontext, dem Aufbau und der Nachnutzung der im Datensatz 'GrippeWeb - Daten des Wochenberichts' bereitgestellten Daten" ;
                     dct:format <http://publications.europa.eu/resource/authority/file-type/PDF> ;
                     dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
                     dct:license <http://dcat-ap.de/def/licenses/cc-by/4.0> ;
                     dcat:accessURL <https://zenodo.org/record/8340323/files/%5BDokumentation%5D_GrippeWeb_Daten_des_Wochenberichts.pdf>;
-                    dct:modified "2025-08-14T09:08:01+02:00"^^xsd:dateTime;
+                    dct:modified "2025-08-21T09:08:02+02:00"^^xsd:dateTime;
                   ].
