@@ -20,7 +20,7 @@
     ],
     "ids": [
       {
-        "identifier": "10.5281/zenodo.16917544",
+        "identifier": "10.5281/zenodo.16978222",
         "typeGeneral": "Dataset",
         "relationType": "A references B",
         "scheme": "DOI"
@@ -121,7 +121,7 @@
         },
         "label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)"
       },
-      "version": "2025-08-19"
+      "version": "2025-08-26"
     },
     "webpage": "https://robert-koch-institut.github.io/GrippeWeb_Daten_des_Wochenberichts/",
     "contributors": [
@@ -242,6 +242,31 @@
           "type": "Creator/Author",
           "givenName": "Ute",
           "familyName": "Preuß"
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "Robert Koch-Institut",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
+          }
+        ],
+        "nameType": "Personal",
+        "personal": {
+          "type": "Creator/Author",
+          "givenName": "Anastassiya",
+          "familyName": "Stepanovich-Falke",
+          "identifiers": [
+            {
+              "identifier": "0009-0001-8652-0490",
+              "scheme": "ORCID"
+            }
+          ]
         }
       },
       {

@@ -4,7 +4,7 @@
   "resource_type": {
     "id": "dataset"
   },
-  "publication_date": "2025-08-21",
+  "publication_date": "2025-08-28",
   "creators": [
     {
       "person_or_org": {
@@ -98,6 +98,25 @@
     {
       "person_or_org": {
         "type": "personal",
+        "family_name": "Stepanovich-Falke",
+        "given_name": "Anastassiya",
+        "identifiers": [
+          {
+            "scheme": "orcid",
+            "identifier": "0009-0001-8652-0490"
+          }
+        ]
+      },
+      "affiliations": [
+        {
+          "name": "Robert Koch-Institut",
+          "id": "01k5qnb77"
+        }
+      ]
+    },
+    {
+      "person_or_org": {
+        "type": "personal",
         "family_name": "Haas",
         "given_name": "Walter",
         "identifiers": [
@@ -117,10 +136,10 @@
   ],
   "contributors": [],
   "publisher": "Zenodo",
-  "version": "2025-08-21",
+  "version": "2025-08-28",
   "dates": [
     {
-      "date": "2025-08-19T05:38:43+02:00",
+      "date": "2025-08-26T05:36:25+02:00",
       "type": {
         "id": "created"
       },

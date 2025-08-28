@@ -27,6 +27,11 @@
       "affiliation": "Robert Koch-Institut"
     },
     {
+      "name": "Stepanovich-Falke, Anastassiya",
+      "affiliation": "Robert Koch-Institut",
+      "orcid": "0009-0001-8652-0490"
+    },
+    {
       "name": "Haas, Walter",
       "affiliation": "Robert Koch-Institut",
       "orcid": "0000-0003-3413-1431"
@@ -52,8 +57,8 @@
     "Open Data",
     "Offen Daten"
   ],
-  "publication_date": "2025-08-21",
-  "version": "2025-08-19",
+  "publication_date": "2025-08-28",
+  "version": "2025-08-26",
   "upload_type": "dataset",
   "access_right": "open",
   "license": "CC-BY-4.0",
@@ -83,8 +88,8 @@
   ],
   "dates": [
     {
-      "start": "2025-08-19T05:38:43+02:00",
-      "end": "2025-08-19T05:38:43+02:00",
+      "start": "2025-08-26T05:36:25+02:00",
+      "end": "2025-08-26T05:36:25+02:00",
       "type": "Created",
       "description": "Date when the published data was created"
     }
