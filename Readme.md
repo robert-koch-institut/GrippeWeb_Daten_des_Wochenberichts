@@ -16,7 +16,7 @@ Nordufer 20
 
 **Zitieren**   
 <!-- CITATION_START: {"citation_style": "apa"} -->
-Buchholz, U., Buda, S., Lehfeld, A., Loenenbach, A., Prahm, K., Preuß, U., Stepanovich-Falke, A., & Haas, W. (2025). GrippeWeb - Daten des Wochenberichts [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.15187294](https://doi.org/10.5281/zenodo.15187294)
+Buchholz, U., Buda, S., Lehfeld, A., Loenenbach, A., Prahm, K., Preuß, U., Stepanovich-Falke, A., & Haas, W. (2025). GrippeWeb - Daten des Wochenberichts [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.16978222](https://doi.org/10.5281/zenodo.16978222)
 <!-- CITATION_END -->
 
 
@@ -87,6 +87,9 @@ Wenn innerhalb von zwei aufeinander folgenden Wochen eine ARE/ILI gemeldet wird,
 
 > Buchholz U, Gau P, Buda S, Prahm K: GrippeWeb als wichtiges Instrument in der Vorbereitung und Bewältigung einer zukünftigen Pandemie. Epid Bull 2017;27:239-247 | [DOI: 10.17886/EpiBull-2017-035.2](https://doi.org/10.17886/EpiBull-2017-035.2).  
 
+#### Ablauf der Datenbereitstellung  
+
+Die Daten werden wöchentlich ausgewertet (i.d.R. Datenstand dienstags, 00:00 Uhr, und nach Prüfung donnerstags öffentlich zur Verfügung gestellt). Der auf den Daten basierende GrippeWeb-Wochenbericht wird unter [https://www.rki.de/grippeweb](https://www.rki.de/grippeweb) i.d.R. freitags veröffentlicht, alle GrippeWeb-Berichte sind auch hier abrufbar: [https://edoc.rki.de/handle/176904/7797.](https://edoc.rki.de/handle/176904/7797.)  
 
 ## Aufbau und Inhalt des Datensatzes
 Der Datensatz gibt Auskunft über die Inzidenzen von akuten respiratorischen (u. a. grippeähnlichen) Erkrankungen in der Bevölkerung in Deutschland, basierend auf den Angaben der GrippeWeb-Teilnehmenden.  

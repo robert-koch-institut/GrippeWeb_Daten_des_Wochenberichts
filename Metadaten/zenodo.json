@@ -8,11 +8,6 @@
       "orcid": "0000-0001-6597-3995"
     },
     {
-      "name": "Buda, Silke",
-      "affiliation": "Robert Koch-Institut",
-      "orcid": "0000-0003-3448-3357"
-    },
-    {
       "name": "Lehfeld, Ann-Sophie",
       "affiliation": "Robert Koch-Institut",
       "orcid": "0000-0002-1686-0289"
@@ -30,6 +25,11 @@
     {
       "name": "Preuß, Ute",
       "affiliation": "Robert Koch-Institut"
+    },
+    {
+      "name": "Stepanovich-Falke, Anastassiya",
+      "affiliation": "Robert Koch-Institut",
+      "orcid": "0009-0001-8652-0490"
     },
     {
       "name": "Haas, Walter",
@@ -57,8 +57,8 @@
     "Open Data",
     "Offen Daten"
   ],
-  "publication_date": "2025-04-10",
-  "version": "2025-04-08",
+  "publication_date": "2025-08-28",
+  "version": "2025-08-26",
   "upload_type": "dataset",
   "access_right": "open",
   "license": "CC-BY-4.0",
@@ -88,8 +88,8 @@
   ],
   "dates": [
     {
-      "start": "2025-04-08T16:31:30+02:00",
-      "end": "2025-04-08T16:31:30+02:00",
+      "start": "2025-08-26T05:36:25+02:00",
+      "end": "2025-08-26T05:36:25+02:00",
       "type": "Created",
       "description": "Date when the published data was created"
     }

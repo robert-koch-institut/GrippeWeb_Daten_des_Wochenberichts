@@ -20,7 +20,7 @@
     ],
     "ids": [
       {
-        "identifier": "10.5281/zenodo.15187294",
+        "identifier": "10.5281/zenodo.16978222",
         "typeGeneral": "Dataset",
         "relationType": "A references B",
         "scheme": "DOI"
@@ -44,11 +44,11 @@
       },
       {
         "label": "Atemwegsinfektionen",
-        "code": "D012141"
+        "code": "http://id.nlm.nih.gov/mesh/D012141"
       },
       {
         "label": "Respiratory Tract Infections",
-        "code": "D012141"
+        "code": "http://id.nlm.nih.gov/mesh/D012141"
       },
       {
         "label": "Syndromische Surveillance"
@@ -58,7 +58,7 @@
       },
       {
         "label": "Influenza",
-        "code": "D007251"
+        "code": "http://id.nlm.nih.gov/mesh/D007251"
       },
       {
         "label": "Grippe"
@@ -68,7 +68,7 @@
       },
       {
         "label": "Erhebungen und Fragebögen",
-        "code": "D011795"
+        "code": "http://id.nlm.nih.gov/mesh/D011795"
       },
       {
         "label": "Survey"
@@ -121,14 +121,20 @@
         },
         "label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)"
       },
-      "version": "2025-04-08"
+      "version": "2025-08-26"
     },
     "webpage": "https://robert-koch-institut.github.io/GrippeWeb_Daten_des_Wochenberichts/",
     "contributors": [
       {
         "affiliations": [
           {
-            "name": "Robert Koch-Institut"
+            "name": "Robert Koch-Institut",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
           }
         ],
         "nameType": "Personal",
@@ -147,26 +153,13 @@
       {
         "affiliations": [
           {
-            "name": "Robert Koch-Institut"
-          }
-        ],
-        "nameType": "Personal",
-        "personal": {
-          "type": "Creator/Author",
-          "givenName": "Silke",
-          "familyName": "Buda",
-          "identifiers": [
-            {
-              "identifier": "0000-0003-3448-3357",
-              "scheme": "ORCID"
-            }
-          ]
-        }
-      },
-      {
-        "affiliations": [
-          {
-            "name": "Robert Koch-Institut"
+            "name": "Robert Koch-Institut",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
           }
         ],
         "nameType": "Personal",
@@ -185,7 +178,13 @@
       {
         "affiliations": [
           {
-            "name": "Robert Koch-Institut"
+            "name": "Robert Koch-Institut",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
           }
         ],
         "nameType": "Personal",
@@ -204,7 +203,13 @@
       {
         "affiliations": [
           {
-            "name": "Robert Koch-Institut"
+            "name": "Robert Koch-Institut",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
           }
         ],
         "nameType": "Personal",
@@ -223,7 +228,13 @@
       {
         "affiliations": [
           {
-            "name": "Robert Koch-Institut"
+            "name": "Robert Koch-Institut",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
           }
         ],
         "nameType": "Personal",
@@ -236,7 +247,38 @@
       {
         "affiliations": [
           {
-            "name": "Robert Koch-Institut"
+            "name": "Robert Koch-Institut",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
+          }
+        ],
+        "nameType": "Personal",
+        "personal": {
+          "type": "Creator/Author",
+          "givenName": "Anastassiya",
+          "familyName": "Stepanovich-Falke",
+          "identifiers": [
+            {
+              "identifier": "0009-0001-8652-0490",
+              "scheme": "ORCID"
+            }
+          ]
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "Robert Koch-Institut",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
           }
         ],
         "nameType": "Personal",
