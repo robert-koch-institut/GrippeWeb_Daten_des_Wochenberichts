@@ -1,24 +1,47 @@
-Datensatzdokumentation  
+<!-- HEADER_START: {"lang": "de"} -->
+
+
+Dokumentation  
 # GrippeWeb - Daten des Wochenberichts
 
-[Robert Koch-Institut | RKI](https://www.rki.de/)   
-Nordufer 20  
-13353 Berlin  
+<br> 
+<br> 
+<br> 
+
+[**Udo Buchholz**](https://orcid.org/0000-0001-6597-3995)&sup1;, [**Ann-Sophie Lehfeld**](https://orcid.org/0000-0002-1686-0289)&sup1;, [**Anna Loenenbach**](https://orcid.org/0000-0002-6455-8527)&sup1;, [**Kerstin Prahm**](https://orcid.org/0009-0005-7038-4315)&sup1;, **Ute Preuß**&sup1;, [**Anastassiya Stepanovich-Falke**](https://orcid.org/0009-0001-8652-0490)&sup2;, & [**Walter Haas**](https://orcid.org/0000-0003-3413-1431)&sup1;
+
+<br> 
+
+
+
+&emsp;&emsp;&sup1; [Robert Koch-Institut](https://www.rki.de/) | [Fachgebiet 36](https://www.rki.de/fg36)  
+&emsp;&emsp;&sup2; [Robert Koch-Institut](https://www.rki.de/) | [Fachgebiet 31](https://www.rki.de/fg31)
+
+<br> 
+
+**Zitieren**  
+Buchholz, U., Lehfeld, A., Loenenbach, A., Prahm, K., Preuß, U., Stepanovich-Falke, A., & Haas, W. (2025). GrippeWeb - Daten des Wochenberichts [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.16978222](https://doi.org/10.5281/zenodo.16978222)
 
 <br>
 
-[**Udo Buchholz**](https://orcid.org/0000-0001-6597-3995)&sup1;, [**Silke Buda**](https://orcid.org/0000-0003-3448-3357)&sup1;, [**Ann-Sophie Lehfeld**](https://orcid.org/0000-0002-1686-0289)&sup1;, [**Anna Loenenbach**](https://orcid.org/0000-0002-6455-8527)&sup1;, [**Kerstin Prahm**](https://orcid.org/0009-0005-7038-4315)&sup1;, **Ute Preuß**&sup1;, [**Anastassiya Stepanovich-Falke**](https://orcid.org/0009-0001-8652-0490)&sup2; und [**Walter Haas**](https://orcid.org/0000-0003-3413-1431)&sup1;   
 
-&emsp;&emsp;&sup1; [Robert Koch-Institut | Fachgebiet 36](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-3/FG36/fg36-respiratorisch-uebertragbare-erkrankungen-node.html)  
-&emsp;&emsp;&sup2; [Robert Koch-Institut | Fachgebiet 31](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-3/FG31/fg31-oegd-kontaktstelle-krisenmanagement-ausbruchsuntersuchungen-und-trainingsprogramme-node.html)  
+**Zusammenfassung**    
+Im Datensatz "GrippeWeb - Daten des Wochenberichts" des Robert Koch-Instituts werden wöchentliche, bevölkerungsbasierte Schätzungen zur Inzidenz akuter respiratorischer Erkrankungen (ARE) und grippeähnlicher Erkrankungen (ILI) in Deutschland bereitgestellt. GrippeWeb als Online-Portal zur partizipativen syndromischen Surveillance nutzt Selbstauskünfte freiwilliger, pseudonym registrierter Teilnehmender ab 16 Jahren zu Symptomen wie Husten, Fieber und Halsschmerzen. Daraus werden Inzidenzen nach Altersgruppen und Regionen errechnet. Die erhobenen Daten unterstützen die Überwachung saisonaler Infektionen und dienen der Risikobewertung in Pandemien wie COVID-19.
 
----  
+<br>
 
-**Zitieren**   
-<!-- CITATION_START: {"citation_style": "apa"} -->
-Buchholz, U., Buda, S., Lehfeld, A., Loenenbach, A., Prahm, K., Preuß, U., Stepanovich-Falke, A., & Haas, W. (2025). GrippeWeb - Daten des Wochenberichts [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.16978222](https://doi.org/10.5281/zenodo.16978222)
-<!-- CITATION_END -->
+**Inhaltsverzeichnis** 
+<!-- TOC_START: {"heading_depth": 2} -->
+  - [Einleitung](#einleitung)
+  - [Informationen zum Datensatz und Entstehungskontext](#informationen-zum-datensatz-und-entstehungskontext)
+  - [Datenerhebung und Datenauswertung](#datenerhebung-und-datenauswertung)
+  - [Aufbau und Inhalt des Datensatzes](#aufbau-und-inhalt-des-datensatzes)
+  - [Hinweise zur Nachnutzung der Daten](#hinweise-zur-nachnutzung-der-daten)
+<!-- TOC_END -->
 
+<br>
+
+<!-- HEADER_END -->
 
 ## Einleitung  
 GrippeWeb ist ein Online-Portal des Robert Koch-Instituts (RKI). Es wurde im Jahr 2011 gegründet und ist das erste Webportal, das die Aktivität akuter Atemwegserkrankungen (ARE) in Deutschland beobachtet, und dabei Informationen direkt aus der Bevölkerung verwendet. Es ist ein robustes und zeitnahes System der partizipativen syndromischen Surveillance, welches aus den ganzjährigen wöchentlichen Selbstauskünften von Bürgerinnen und Bürgern gespeist wird und somit unabhängig von einer ärztlichen Konsultation ist. GrippeWeb wurde vom RKI u. a. als Überwachungsinstrument in der Vorbereitung und Bewältigung zukünftiger Pandemien entwickelt und als dieses auch zur Lagebewertung und Risikoeinschätzung der Coronavirus Disease 2019 (COVID-19) Pandemie genutzt.   
@@ -28,11 +51,11 @@ Bei GrippeWeb registrierte Teilnehmer und Teilnehmerinnen, werden wöchentlich g
 ## Informationen zum Datensatz und Entstehungskontext  
 
 ### Projektbeteiligte und Rollenbesetzung  
-Die Daten zum GrippeWeb-Wochenbericht werden vom Robert Koch-Institut herausgegeben. Die Konzeptionierung der Datenerhebung, das Datenmanagement, die Validierung der Daten und die fachliche Bewertung der Ergebnisse erfolgen im [Fachgebiet 36 | Respiratorisch übertragbare Erkrankungen](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-3/FG36/fg36-respiratorisch-uebertragbare-erkrankungen-node.html) des RKI. Fragen bezüglich der Datenerhebung im GrippeWeb können an [GrippeWeb@rki.de](mailto:GrippeWeb@rki.de) gerichtet werden.   
+Die Daten zum GrippeWeb-Wochenbericht werden vom Robert Koch-Institut herausgegeben. Die Konzeptionierung der Datenerhebung, das Datenmanagement, die Validierung der Daten und die fachliche Bewertung der Ergebnisse erfolgen im [Fachgebiet 36 | Respiratorisch übertragbare Erkrankungen](https://www.rki.de/fg36) des RKI. Fragen bezüglich der Datenerhebung im GrippeWeb können an [GrippeWeb@rki.de](mailto:GrippeWeb@rki.de) gerichtet werden.   
 
-Das Informationstechnikzentrum Bund (ITZBund), als IT-Dienstleister für Bundesbehörden, ist für die technische Bereitstellung der Webseite https://grippeweb.bund.de zuständig (Hosting und Betrieb). Der Datentransfer von ITZBund zum RKI erfolgt über [Fachgebiet IT4 | Softwarearchitektur und -entwicklung](https://www.rki.de/DE/Institut/Organisation/Abteilungen/MFI/IT4/it4-softwarearchitektur-und-entwicklung-node.html) des RKI.  
+Das Informationstechnikzentrum Bund (ITZBund), als IT-Dienstleister für Bundesbehörden, ist für die technische Bereitstellung der Webseite https://grippeweb.bund.de zuständig (Hosting und Betrieb). Der Datentransfer von ITZBund zum RKI erfolgt über [Fachgebiet IT4 | Softwarearchitektur und -entwicklung](https://www.rki.de/it4) des RKI.  
 
-Die Veröffentlichung des Datensatzes, die Datenkuration sowie das Qualitätsmanagement der (Meta-)Daten erfolgen durch das Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement]([https://www.rki.de/DE/Institut/Organisation/Abteilungen/MFI/MF4/mf4-fach-und-forschungsdatenmanagement-node.html]()). Fragen zum Datenmanagement und zur Publikationsinfrastruktur können an das Open Data Team des Fachgebiets MF4 unter [OpenData@rki.de](mailto:OpenData@rki.de) gerichtet werden.  
+Die Veröffentlichung des Datensatzes, die Datenkuration sowie das Qualitätsmanagement der (Meta-)Daten erfolgen durch das Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement](https://www.rki.de/mf4). Fragen zum Datenmanagement und zur Publikationsinfrastruktur können an das Open Data Team des Fachgebiets MF4 unter [OpenData@rki.de](mailto:OpenData@rki.de) gerichtet werden.  
 
 ### Teilnehmende  
 GrippeWeb ist ein Online-Surveillance-Instrument. Die Teilnahme an der Datenerhebung ist freiwillig und erfolgt pseudonym auf Grundlage einer Einwilligung. Alle Teilnehmenden erhalten einmal wöchentlich (montagmorgens) eine E-Mail mit einem Link zur [GrippeWeb-Webseite](https://grippeweb.bund.de) und der Bitte, online Auskunft zu geben, u. a. ob in der Vorwoche Symptome einer akuten Atemwegserkrankung aufgetreten sind oder nicht. Die Beantwortung kann nur nach persönlicher Anmeldung mit E-Mail-Adresse und Passwort erfolgen und dauert in der Regel weniger als eine Minute.   
