@@ -2,29 +2,17 @@ cff-version: 1.2.0
 type: dataset
 title: GrippeWeb - Daten des Wochenberichts
 abstract: >-
-  GrippeWeb ist ein Online-Portal des Robert Koch-Instituts (RKI). Es wurde im
-  Jahr 2011 gegründet und ist das erste Webportal, das die Aktivität akuter
-  Atemwegserkrankungen (ARE) in Deutschland beobachtet, und dabei Informationen
-  direkt aus der Bevölkerung verwendet. Es ist ein robustes und zeitnahes System
-  der partizipativen syndromischen Surveillance, welches aus den ganzjährigen
-  wöchentlichen Selbstauskünften von Bürgerinnen und Bürgern gespeist wird und
-  somit unabhängig von einer ärztlichen Konsultation ist. GrippeWeb wurde vom
-  RKI u. a. als Überwachungsinstrument in der Vorbereitung und Bewältigung
-  zukünftiger Pandemien entwickelt und als dieses auch zur Lagebewertung und
-  Risikoeinschätzung der Coronavirus Disease 2019 (COVID-19) Pandemie genutzt.
-
-
-  Bei GrippeWeb registrierte Teilnehmer und Teilnehmerinnen, werden wöchentlich
-  gefragt, ob sie eine neu aufgetretene Atemwegserkrankung hatten mit Symptomen
-  wie z.B. Husten, Schnupfen, Halsschmerzen oder Fieber, oder ob dies nicht der
-  Fall war. Darüber hinaus werden u.a. potentielle Erregernachweise abgefragt.
-  Über diese Angaben lassen sich wöchentliche gewichtete Inzidenzen (pro 100.000
-  Einw.) von akuten Atemwegserkrankungen (ARE), und grippeähnlichen Erkrankungen
-  (Influenza-like Illness = ILI) in der Bevölkerung schätzen. Die wöchentlich
-  aktualisierten Ergebnisse werden jeden Freitag im GrippeWeb-Wochenbericht
-  unter www.rki.de/grippeweb (http://www.rki.de/grippeweb) veröffentlicht sowie
-  der Datensatz auf GitHub zur Verfügung gestellt.
-date-released: '2025-08-28'
+  Im Datensatz &quot;GrippeWeb - Daten des Wochenberichts&quot; des Robert
+  Koch-Instituts werden wöchentliche, bevölkerungsbasierte Schätzungen zur
+  Inzidenz akuter respiratorischer Erkrankungen (ARE) und grippeähnlicher
+  Erkrankungen (ILI) in Deutschland bereitgestellt. GrippeWeb als Online-Portal
+  zur partizipativen syndromischen Surveillance nutzt Selbstauskünfte
+  freiwilliger, pseudonym registrierter Teilnehmender ab 16 Jahren zu Symptomen
+  wie Husten, Fieber und Halsschmerzen. Daraus werden Inzidenzen nach
+  Altersgruppen und Regionen errechnet. Die erhobenen Daten unterstützen die
+  Überwachung saisonaler Infektionen und dienen der Risikobewertung in Pandemien
+  wie COVID-19.
+date-released: '2025-09-04'
 keywords:
   - ARE
   - ILI
@@ -50,33 +38,33 @@ keywords:
 message: Cite me!
 url: https://robert-koch-institut.github.io/GrippeWeb_Daten_des_Wochenberichts/
 license: CC-BY-4.0
-doi: 10.5281/zenodo.16978222
-version: '2025-08-26T05:36:25+02:00'
+doi: 10.5281/zenodo.17052133
+version: '2025-09-02T05:40:50+02:00'
 authors:
   - family-names: Buchholz
     given-names: Udo
-    affiliation: Robert Koch-Institut
+    affiliation: Robert Koch-Institut | Fachgebiet 36
     orcid: 0000-0001-6597-3995
   - family-names: Lehfeld
     given-names: Ann-Sophie
-    affiliation: Robert Koch-Institut
+    affiliation: Robert Koch-Institut | Fachgebiet 36
     orcid: 0000-0002-1686-0289
   - family-names: Loenenbach
     given-names: Anna
-    affiliation: Robert Koch-Institut
+    affiliation: Robert Koch-Institut | Fachgebiet 36
     orcid: 0000-0002-6455-8527
   - family-names: Prahm
     given-names: Kerstin
-    affiliation: Robert Koch-Institut
+    affiliation: Robert Koch-Institut | Fachgebiet 36
     orcid: 0009-0005-7038-4315
   - family-names: Preuß
     given-names: Ute
-    affiliation: Robert Koch-Institut
+    affiliation: Robert Koch-Institut | Fachgebiet 36
   - family-names: Stepanovich-Falke
     given-names: Anastassiya
-    affiliation: Robert Koch-Institut
+    affiliation: Robert Koch-Institut | Fachgebiet 31
     orcid: 0009-0001-8652-0490
   - family-names: Haas
     given-names: Walter
-    affiliation: Robert Koch-Institut
+    affiliation: Robert Koch-Institut | Fachgebiet 36
     orcid: 0000-0003-3413-1431
