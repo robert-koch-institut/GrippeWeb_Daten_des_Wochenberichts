@@ -20,7 +20,7 @@ Dokumentation
 <br> 
 
 **Zitieren**  
-Buchholz, U., Lehfeld, A., Loenenbach, A., Prahm, K., Preuß, U., Stepanovich-Falke, A., & Haas, W. (2025). GrippeWeb - Daten des Wochenberichts [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.17097492](https://doi.org/10.5281/zenodo.17097492)
+Buchholz, U., Lehfeld, A., Loenenbach, A., Prahm, K., Preuß, U., Stepanovich-Falke, A., & Haas, W. (2025). GrippeWeb - Daten des Wochenberichts [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.17150497](https://doi.org/10.5281/zenodo.17150497)
 
 <br>
 
