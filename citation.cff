@@ -12,7 +12,7 @@ abstract: >-
   Altersgruppen und Regionen errechnet. Die erhobenen Daten unterstützen die
   Überwachung saisonaler Infektionen und dienen der Risikobewertung in Pandemien
   wie COVID-19.
-date-released: '2025-11-06'
+date-released: '2025-11-13'
 keywords:
   - ARE
   - ILI
@@ -38,8 +38,8 @@ keywords:
 message: Cite me!
 url: https://robert-koch-institut.github.io/GrippeWeb_Daten_des_Wochenberichts/
 license: CC-BY-4.0
-doi: 10.5281/zenodo.17540178
-version: '2025-11-04T04:54:46+01:00'
+doi: 10.5281/zenodo.17597355
+version: '2025-11-11T04:58:30+01:00'
 authors:
   - family-names: Buchholz
     given-names: Udo
