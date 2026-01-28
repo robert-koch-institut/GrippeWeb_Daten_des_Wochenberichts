@@ -163,10 +163,10 @@ Die Datei [GrippeWeb_Daten_des_Wochenberichts.tsv](https://github.com/robert-koc
 
 #### Formatierung
 
-Die Daten sind im Datensatz als tabseparierte .tsv Datei enthalten. Der verwendete Zeichensatz der .tsv Datei ist UTF-8. Trennzeichen der einzelnen Werte ist ein Tab "\t". Datumsangaben entsprechen dem Standard ISO-8601.  
+Die Daten sind im Datensatz als Tab-separierte .tsv Datei enthalten. Der verwendete Zeichensatz der .tsv Datei ist UTF-8. Trennzeichen der einzelnen Werte ist ein Tab `\t`. Datumsangaben entsprechen dem Standard ISO-8601.  
 
 - Zeichensatz: UTF-8
-- .tsv Trennzeichen: Tabulator, "\t"
+- .tsv Trennzeichen: Tab `\t`
 
 <!-- FOOTER_START: {"lang": "de"} -->
 
