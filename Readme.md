@@ -2,6 +2,7 @@
 
 
 Dokumentation  
+
 # GrippeWeb - Daten des Wochenberichts
 
 <br> 
@@ -20,23 +21,26 @@ Dokumentation
 <br> 
 
 **Zitieren**  
+<!-- CITATION_START: {"citation_style": "apa"} -->  
 Buchholz, U., Lehfeld, A., Loenenbach, A., Prahm, K., Preuß, U., Stepanovich-Falke, A., & Haas, W. (2026). GrippeWeb - Daten des Wochenberichts [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.18693745](https://doi.org/10.5281/zenodo.18693745)
+<!-- CITATION_END -->
+
 
 <br>
-
 
 **Zusammenfassung**    
 Im Datensatz "GrippeWeb - Daten des Wochenberichts" des Robert Koch-Instituts werden wöchentliche, bevölkerungsbasierte Schätzungen zur Inzidenz akuter respiratorischer Erkrankungen (ARE) und grippeähnlicher Erkrankungen (ILI) in Deutschland bereitgestellt. GrippeWeb als Online-Portal zur partizipativen syndromischen Surveillance nutzt Selbstauskünfte freiwilliger, pseudonym registrierter Teilnehmender ab 16 Jahren zu Symptomen wie Husten, Fieber und Halsschmerzen. Daraus werden Inzidenzen nach Altersgruppen und Regionen errechnet. Die erhobenen Daten unterstützen die Überwachung saisonaler Infektionen und dienen der Risikobewertung in Pandemien wie COVID-19.
 
 <br>
 
-**Inhaltsverzeichnis** 
+**Inhaltsverzeichnis**  
+
 <!-- TOC_START: {"heading_depth": 2} -->
-  - [Einleitung](#einleitung)
-  - [Informationen zum Datensatz und Entstehungskontext](#informationen-zum-datensatz-und-entstehungskontext)
-  - [Datenerhebung und Datenauswertung](#datenerhebung-und-datenauswertung)
-  - [Aufbau und Inhalt des Datensatzes](#aufbau-und-inhalt-des-datensatzes)
-  - [Hinweise zur Nachnutzung der Daten](#hinweise-zur-nachnutzung-der-daten)
+  - [Einleitung](#einleitung)  
+  - [Informationen zum Datensatz und Entstehungskontext](#informationen-zum-datensatz-und-entstehungskontext)  
+  - [Datenerhebung und Datenauswertung](#datenerhebung-und-datenauswertung)  
+  - [Aufbau und Inhalt des Datensatzes](#aufbau-und-inhalt-des-datensatzes)  
+  - [Hinweise zur Nachnutzung der Daten](#hinweise-zur-nachnutzung-der-daten)  
 <!-- TOC_END -->
 
 <br>
@@ -64,14 +68,16 @@ GrippeWeb ist ein Online-Surveillance-Instrument. Die Teilnahme an der Datenerhe
 Alle Personen aus dem Bundesgebiet ab einem Mindestalter von 16 Jahren sind zur Teilnahme berechtigt, für Personen aus dem Bundesgebiet bis zu einem Alter von 15 Jahren kann eine Teilnahme durch eine erziehungsberechtigte Person erfolgen. Für die Teilnahme wird die Registrierung auf der Webseite des [GrippeWeb](https://grippeweb.bund.de) vorausgesetzt. Einzige Ausnahme bildet die Teilnahme von Kindern unter 16 Jahren, hierfür ist die Registrierung einer erziehungsberechtigten Person notwendig. Bei der Registrierung ist die Angabe einer E-Mail-Adresse und eines eigens gesetzten Passwortes erforderlich. Weitere Voraussetzung zur Teilnahme ist die Abgabe einer Einwilligungserklärung zur Teilnahme an GrippeWeb.   
 
 ## Datenerhebung und Datenauswertung  
+
 ### Datenerhebung  
 Es werden einmalig folgende Daten erhoben (die Angaben können später bei Bedarf geändert bzw. aktualisiert werden), wie beispielsweise Geburtsjahr und Wohnort (Land-/Stadtkreis, Bundesland). Zusätzlich werden wöchentlich Fragen zu Symptomen einer akuten respiratorischen Erkrankung gestellt. Folgende wöchentliche Fragen sind Grundlage zur Berechnung der ARE- und ILI-Inzidenzen:  
 
 #### Auszug des GrippeWeb-Fragebogens
+
 ##### Symptome
 
 |Frage|Typ|Ausprägung|
-| --- | - | -------- |
+| :--- | :- | :-------- |
 |Hatten Sie/Ihr Kind in der oben genannten Woche eine NEU aufgetretene Atemwegserkrankung (zum Beispiel neu aufgetretenen Husten, Schnupfen, Halsschmerzen, mit oder ohne Fieber)?|dichotom|Ja, Nein|
 |- Bitte geben Sie an, ob Sie folgende Symptome hatten: Fieber       |dichotom|Ja, Nein (Für Kinder zusätzliche Antwortmöglichkeit: "unbekannt")|
 |- Bitte geben Sie an, ob Sie folgende Symptome hatten: Husten       |dichotom|Ja, Nein (Für Kinder zusätzliche Antwortmöglichkeit: "unbekannt")|
@@ -124,7 +130,7 @@ Im Datensatz enthalten sind:
 - Lizenz-Datei mit der Nutzungslizenz des Datensatzes in Deutsch und Englisch
 - Datensatzdokumentation in deutscher Sprache
 - Metadaten zur automatisierten Weiterverarbeitung
-  
+
 ### Daten des Wochenberichts
 Die Daten des GrippeWeb-Wochenberichts sind nach folgenden Merkmalen differenziert (in den Klammern finden sich die Variablen dieser Merkmale):  
 
@@ -143,18 +149,19 @@ Die Daten bilden den wöchentlichen Stand (00:00 Uhr) aller Meldungen von Grippe
 <!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "GrippeWeb_Daten_des_Wochenberichts", "lang": "de"} -->
 
 Die Datei [GrippeWeb_Daten_des_Wochenberichts.tsv](https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts/blob/main/GrippeWeb_Daten_des_Wochenberichts.tsv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Data Package Standard](https://datapackage.org/) in [tableschema_GrippeWeb_Daten_des_Wochenberichts.json](https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts/blob/main/Metadaten/schemas/tableschema_GrippeWeb_Daten_des_Wochenberichts.json) hinterlegt:
+
 > [tableschema_GrippeWeb_Daten_des_Wochenberichts.json](https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts/blob/main/Metadaten/schemas/tableschema_GrippeWeb_Daten_des_Wochenberichts.json)
 
 <!-- DATA_SCHEMA_TABLE_START -->
-| Variable      | Typ    | Ausprägungen                                                            | Beschreibung                                                                                                                                                                                                                                            |
-|:--------------|:-------|:------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Meldungen     | number | Werte: `≥1`                                                             | Anzahl der Meldungen pro Kalenderwoche                                                                                                                                                                                                                  |
-| Saison        | date   | Format: `YYYY/YY`                                                       | Saison jeweils von Kalenderwoche 40 bis Kalenderwoche 39 des Folgejahres (z.B. Saison 2012/13 = 2012W40 bis 2013W39)                                                                                                                                    |
-| Erkrankung    | string | Werte: `ARE`, `ILI`                                                     | [Erkrankung nach Falldefinition](https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts?tab=readme-ov-file#falldefinitionen)                                                                                                        |
-| Altersgruppe  | string | Werte: `00+`, `0-14`, `15+`, `0-4`, `5-14`, `15-34`, `35-59`, …         | Altersgruppen der Befragten. `00+`: Gesamt, `0-14`: Null bis 14 Jahre, `15+`: Älter als 15 Jahre, `60+`: Älter als 60 Jahre                                                                                                                             |
-| Region        | string | Werte: `Bundesweit`, `Sueden`, `Osten`, `Norden (West)`, `Mitte (West)` | Die Zuordung zu den Regionen ist für jedes Bundesland in den der [Grippeweb_Zuordung_Regionen.tsv](https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts/blob/main/Kontextmaterialien/GrippeWeb_Zuordung_Regionen.tsv) hinterlegt. |
-| Kalenderwoche | date   | Format: `YYYY-Www`                                                      | Kalenderwoche, für die die Meldung abgegeben wurde                                                                                                                                                                                                      |
-| Inzidenz      | number | Werte: `≥0`                                                             | Nach jeweiliger Bevölkerungsstruktur gewichtete Inzidenz pro 100.000 Einw.                                                                                                                                                                              |
+| Variable      | Typ    | Ausprägungen                                                               | Beschreibung                                                                                                                                                                                                                                            |
+|:--------------|:-------|:---------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Meldungen     | number | Werte:<br>`≥1`                                                             | Anzahl der Meldungen pro Kalenderwoche                                                                                                                                                                                                                  |
+| Saison        | date   | Format:<br>`YYYY/YY`                                                       | Saison jeweils von Kalenderwoche 40 bis Kalenderwoche 39 des Folgejahres (z.B. Saison 2012/13 = 2012W40 bis 2013W39)                                                                                                                                    |
+| Erkrankung    | string | Werte:<br>`ARE`, `ILI`                                                     | [Erkrankung nach Falldefinition](https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts?tab=readme-ov-file#falldefinitionen)                                                                                                        |
+| Altersgruppe  | string | Werte:<br>`00+`, `0-14`, `15+`, `0-4`, `5-14`, `15-34`, `35-59`, …         | Altersgruppen der Befragten. `00+`: Gesamt, `0-14`: Null bis 14 Jahre, `15+`: Älter als 15 Jahre, `60+`: Älter als 60 Jahre                                                                                                                             |
+| Region        | string | Werte:<br>`Bundesweit`, `Sueden`, `Osten`, `Norden (West)`, `Mitte (West)` | Die Zuordung zu den Regionen ist für jedes Bundesland in den der [Grippeweb_Zuordung_Regionen.tsv](https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts/blob/main/Kontextmaterialien/GrippeWeb_Zuordung_Regionen.tsv) hinterlegt. |
+| Kalenderwoche | date   | Format:<br>`YYYY-Www`                                                      | Kalenderwoche, für die die Meldung abgegeben wurde                                                                                                                                                                                                      |
+| Inzidenz      | number | Werte:<br>`≥0`                                                             | Nach jeweiliger Bevölkerungsstruktur gewichtete Inzidenz pro 100.000 Einw.                                                                                                                                                                              |
 
 <!-- DATA_SCHEMA_TABLE_END -->
 
@@ -163,14 +170,12 @@ Die Datei [GrippeWeb_Daten_des_Wochenberichts.tsv](https://github.com/robert-koc
 
 #### Formatierung
 
-Die Daten sind im Datensatz als tabseparierte .tsv Datei enthalten. Der verwendete Zeichensatz der .tsv Datei ist UTF-8. Trennzeichen der einzelnen Werte ist ein Tab "\t". Datumsangaben entsprechen dem Standard ISO-8601.  
+Die Daten sind im Datensatz als Tab-separierte .tsv Datei enthalten. Der verwendete Zeichensatz der .tsv Datei ist UTF-8. Trennzeichen der einzelnen Werte ist ein Tab `\t`. Datumsangaben entsprechen dem Standard ISO-8601.  
 
 - Zeichensatz: UTF-8
-- .tsv Trennzeichen: Tabulator, "\t"
+- .tsv Trennzeichen: Tab `\t`
 
 <!-- FOOTER_START: {"lang": "de"} -->
-
-
 
 ### Metadaten  
 
@@ -178,7 +183,7 @@ Zur Erhöhung der Auffindbarkeit sind die bereitgestellten Daten mit Metadaten b
 
 > [Metadaten/](https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts/tree/main/Metadaten/) 
 
-Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](https://zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts/blob/main/Metadaten/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter https://developers.zenodo.org/#representation nachlesbar.
+Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](https://zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts/blob/main/Metadaten/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter [https://developers.zenodo.org/#representation](https://developers.zenodo.org/#representation) nachlesbar.
  
 > [Metadaten/zenodo.json](https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts/blob/main/Metadaten/zenodo.json)  
 
@@ -189,8 +194,8 @@ In der zenodo.json ist neben dem Publikationsdatum (`"publication_date"`) auch d
     {
       "start": "2023-09-11T15:00:21+02:00",
       "end": "2023-09-11T15:00:21+02:00",
-      "type": "Collected",
-      "description": "Date when the Dataset was created"
+      "type": "Created",
+      "description": "Date when the published data was created"
     }
   ],
 ```    
@@ -215,11 +220,13 @@ Für tabellarische Daten definieren wir zusätzlich ein [Table Schema](https://d
 
 Offene Forschungsdaten des RKI werden auf [Zenodo.org](http://Zenodo.org/), [GitHub.com](http://GitHub.com/), [OpenCoDE](https://gitlab.opencode.de) und [Edoc.rki.de](http://Edoc.rki.de/) bereitgestellt:  
 
-- https://zenodo.org/communities/robertkochinstitut  
-- https://github.com/robert-koch-institut  
-- https://gitlab.opencode.de/robert-koch-institut  
-- https://edoc.rki.de/  
- 
+- [https://zenodo.org/communities/robertkochinstitut](https://zenodo.org/communities/robertkochinstitut)  
+- [https://github.com/robert-koch-institut](https://github.com/robert-koch-institut)  
+- [https://gitlab.opencode.de/robert-koch-institut](https://gitlab.opencode.de/robert-koch-institut)  
+- [https://edoc.rki.de/](https://edoc.rki.de/) 
+
+
+
 ### Lizenz  
 
 Der Datensatz "GrippeWeb - Daten des Wochenberichts" ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Public License | CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de).  
