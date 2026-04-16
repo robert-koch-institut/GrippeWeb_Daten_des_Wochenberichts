@@ -1,18 +1,15 @@
 cff-version: 1.2.0
 type: dataset
 title: GrippeWeb - Daten des Wochenberichts
-abstract: >-
-  Im Datensatz &quot;GrippeWeb - Daten des Wochenberichts&quot; des Robert
-  Koch-Instituts werden wöchentliche, bevölkerungsbasierte Schätzungen zur
-  Inzidenz akuter respiratorischer Erkrankungen (ARE) und grippeähnlicher
-  Erkrankungen (ILI) in Deutschland bereitgestellt. GrippeWeb als Online-Portal
-  zur partizipativen syndromischen Surveillance nutzt Selbstauskünfte
-  freiwilliger, pseudonym registrierter Teilnehmender ab 16 Jahren zu Symptomen
-  wie Husten, Fieber und Halsschmerzen. Daraus werden Inzidenzen nach
-  Altersgruppen und Regionen errechnet. Die erhobenen Daten unterstützen die
-  Überwachung saisonaler Infektionen und dienen der Risikobewertung in Pandemien
-  wie COVID-19.
-date-released: '2026-04-09'
+abstract: Im Datensatz "GrippeWeb - Daten des Wochenberichts" des Robert Koch-Instituts
+  werden wöchentliche, bevölkerungsbasierte Schätzungen zur Inzidenz akuter respiratorischer
+  Erkrankungen (ARE) und grippeähnlicher Erkrankungen (ILI) in Deutschland bereitgestellt.
+  GrippeWeb als Online-Portal zur partizipativen syndromischen Surveillance nutzt
+  Selbstauskünfte freiwilliger, pseudonym registrierter Teilnehmender ab 16 Jahren
+  zu Symptomen wie Husten, Fieber und Halsschmerzen. Daraus werden Inzidenzen nach
+  Altersgruppen und Regionen errechnet. Die erhobenen Daten unterstützen die Überwachung
+  saisonaler Infektionen und dienen der Risikobewertung in Pandemien wie COVID-19.
+date-released: '2026-04-16'
 keywords:
   - ARE
   - ILI
@@ -36,35 +33,35 @@ keywords:
   - Public health surveillance
   - Epidemiology
 message: Cite me!
-url: https://robert-koch-institut.github.io/GrippeWeb_Daten_des_Wochenberichts/
+url: https://robert-koch-institut.github.io/GrippeWeb_Daten_des_Wochenberichts
 license: CC-BY-4.0
-doi: 10.5281/zenodo.19479788
-version: '2026-04-07T06:29:21+02:00'
+doi: 10.5281/zenodo.19603676
+version: '2026-04-16T09:08:15+02:00'
 authors:
   - family-names: Buchholz
     given-names: Udo
     affiliation: Robert Koch-Institut | Fachgebiet 36
-    orcid: 0000-0001-6597-3995
+    orcid: https://orcid.org/0000-0001-6597-3995
   - family-names: Lehfeld
     given-names: Ann-Sophie
     affiliation: Robert Koch-Institut | Fachgebiet 36
-    orcid: 0000-0002-1686-0289
+    orcid: https://orcid.org/0000-0002-1686-0289
   - family-names: Loenenbach
     given-names: Anna
     affiliation: Robert Koch-Institut | Fachgebiet 36
-    orcid: 0000-0002-6455-8527
+    orcid: https://orcid.org/0000-0002-6455-8527
   - family-names: Prahm
     given-names: Kerstin
     affiliation: Robert Koch-Institut | Fachgebiet 36
-    orcid: 0009-0005-7038-4315
+    orcid: https://orcid.org/0009-0005-7038-4315
   - family-names: Preuß
     given-names: Ute
     affiliation: Robert Koch-Institut | Fachgebiet 36
   - family-names: Stepanovich-Falke
     given-names: Anastassiya
     affiliation: Robert Koch-Institut | Fachgebiet 31
-    orcid: 0009-0001-8652-0490
+    orcid: https://orcid.org/0009-0001-8652-0490
   - family-names: Haas
     given-names: Walter
     affiliation: Robert Koch-Institut | Fachgebiet 36
-    orcid: 0000-0003-3413-1431
+    orcid: https://orcid.org/0000-0003-3413-1431

@@ -20,15 +20,15 @@
     ],
     "ids": [
       {
-        "identifier": "10.5281/zenodo.19479788",
+        "identifier": "10.5281/zenodo.19603676",
         "typeGeneral": "Dataset",
         "relationType": "A references B",
         "scheme": "DOI"
       },
       {
         "identifier": "https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts",
-        "relationType": "A references B",
         "typeGeneral": "Dataset",
+        "relationType": "A references B",
         "scheme": "URL"
       }
     ],
@@ -77,10 +77,12 @@
         "label": "GrippeWeb"
       },
       {
-        "label": "Deutschland"
+        "label": "Deutschland",
+        "code": "http://id.nlm.nih.gov/mesh/D005858"
       },
       {
-        "label": "Germany"
+        "label": "Germany",
+        "code": "http://id.nlm.nih.gov/mesh/D005858"
       },
       {
         "label": "RKI"
@@ -93,19 +95,19 @@
       },
       {
         "label": "Gesundheitsberichterstattung",
-        "code": "info:ddc/22/de//614.42"
+        "code": "http://id.nlm.nih.gov/mesh/D062486"
       },
       {
         "label": "Epidemiologie",
-        "code": "info:ddc/22/de//614.4"
+        "code": "http://id.nlm.nih.gov/mesh/D004813"
       },
       {
         "label": "Public health surveillance",
-        "code": "info:ddc/22/eng//614.42"
+        "code": "http://id.nlm.nih.gov/mesh/D062486"
       },
       {
         "label": "Epidemiology",
-        "code": "info:ddc/22/eng//614.4"
+        "code": "http://id.nlm.nih.gov/mesh/D004813"
       }
     ],
     "languages": [
@@ -121,11 +123,12 @@
         },
         "label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)"
       },
-      "version": "2026-04-07"
+      "version": "2026-04-16"
     },
-    "webpage": "https://robert-koch-institut.github.io/GrippeWeb_Daten_des_Wochenberichts/",
+    "webpage": "https://robert-koch-institut.github.io/GrippeWeb_Daten_des_Wochenberichts",
     "contributors": [
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Robert Koch-Institut",
@@ -137,7 +140,6 @@
             ]
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Creator/Author",
           "givenName": "Udo",
@@ -151,6 +153,7 @@
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Robert Koch-Institut",
@@ -162,7 +165,6 @@
             ]
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Creator/Author",
           "givenName": "Ann-Sophie",
@@ -176,6 +178,7 @@
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Robert Koch-Institut",
@@ -187,7 +190,6 @@
             ]
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Creator/Author",
           "givenName": "Anna",
@@ -201,6 +203,7 @@
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Robert Koch-Institut",
@@ -212,7 +215,6 @@
             ]
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Creator/Author",
           "givenName": "Kerstin",
@@ -226,6 +228,7 @@
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Robert Koch-Institut",
@@ -237,7 +240,6 @@
             ]
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Creator/Author",
           "givenName": "Ute",
@@ -245,6 +247,7 @@
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Robert Koch-Institut",
@@ -256,7 +259,6 @@
             ]
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Creator/Author",
           "givenName": "Anastassiya",
@@ -270,6 +272,7 @@
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Robert Koch-Institut",
@@ -281,7 +284,6 @@
             ]
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Creator/Author",
           "givenName": "Walter",
