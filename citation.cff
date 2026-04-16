@@ -35,8 +35,8 @@ keywords:
 message: Cite me!
 url: https://robert-koch-institut.github.io/GrippeWeb_Daten_des_Wochenberichts
 license: CC-BY-4.0
-doi: 10.5281/zenodo.19603676
-version: '2026-04-16T09:08:15+02:00'
+doi: 10.5281/zenodo.19605307
+version: '2026-04-14T06:46:21+02:00'
 authors:
   - family-names: Buchholz
     given-names: Udo

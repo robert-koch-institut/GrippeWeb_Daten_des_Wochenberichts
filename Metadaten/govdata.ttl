@@ -5,16 +5,16 @@ PREFIX foaf: <http://xmlns.com/foaf/0.1/>
 PREFIX vcard: <http://www.w3.org/2006/vcard/ns#>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
-<https://zenodo.org/record/19603676>
+<https://zenodo.org/record/19605307>
     a dcat:Dataset ;
     dcatde:contributor
-        <https://zenodo.org/record/19603676#author-1> ,
-        <https://zenodo.org/record/19603676#author-2> ,
-        <https://zenodo.org/record/19603676#author-3> ,
-        <https://zenodo.org/record/19603676#author-4> ,
-        <https://zenodo.org/record/19603676#author-5> ,
-        <https://zenodo.org/record/19603676#author-6> ,
-        <https://zenodo.org/record/19603676#author-7> ;
+        <https://zenodo.org/record/19605307#author-1> ,
+        <https://zenodo.org/record/19605307#author-2> ,
+        <https://zenodo.org/record/19605307#author-3> ,
+        <https://zenodo.org/record/19605307#author-4> ,
+        <https://zenodo.org/record/19605307#author-5> ,
+        <https://zenodo.org/record/19605307#author-6> ,
+        <https://zenodo.org/record/19605307#author-7> ;
     dcatde:contributorID <http://dcat-ap.de/def/contributors/robertKochInstitut> ;
     dcatde:maintainer
         [
@@ -23,9 +23,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
             foaf:name "Robert Koch-Institut | Open Data Team" ;
         ] ;
     dct:description "<p>Im Datensatz \"GrippeWeb - Daten des Wochenberichts\" des Robert Koch-Instituts werden wöchentliche, bevölkerungsbasierte Schätzungen zur Inzidenz akuter respiratorischer Erkrankungen (ARE) und grippeähnlicher Erkrankungen (ILI) in Deutschland bereitgestellt. GrippeWeb als Online-Portal zur partizipativen syndromischen Surveillance nutzt Selbstauskünfte freiwilliger, pseudonym registrierter Teilnehmender ab 16 Jahren zu Symptomen wie Husten, Fieber und Halsschmerzen. Daraus werden Inzidenzen nach Altersgruppen und Regionen errechnet. Die erhobenen Daten unterstützen die Überwachung saisonaler Infektionen und dienen der Risikobewertung in Pandemien wie COVID-19.</p>" ;
-    dct:issued "2026-04-16T09:08:15+02:00"^^xsd:dateTime ;
+    dct:issued "2026-04-16T11:06:53+02:00"^^xsd:dateTime ;
     dct:license <https://dcat-ap.de/def/licenses/cc-by/4.0> ;
-    dct:modified "2026-04-16T09:08:15+02:00"^^xsd:dateTime ;
+    dct:modified "2026-04-14T06:46:21+02:00"^^xsd:dateTime ;
     dct:publisher
         [
             a foaf:Organization ;
@@ -44,9 +44,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
             vcard:hasStreetAddress "Nordufer 20" ;
         ] ;
     dcat:distribution
-        <https://zenodo.org/record/19603676#dist-01-github> ,
-        <https://zenodo.org/record/19603676#dist-02-zenodo> ,
-        <https://zenodo.org/record/19603676#dist-03-zenodo-documentation> ;
+        <https://zenodo.org/record/19605307#dist-01-github> ,
+        <https://zenodo.org/record/19605307#dist-02-zenodo> ,
+        <https://zenodo.org/record/19605307#dist-03-zenodo-documentation> ;
     dcat:keyword
         "ARE" ,
         "Atemwegsinfektionen" ,
@@ -76,80 +76,80 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         <http://publications.europa.eu/resource/authority/data-theme/TECH> ;
 .
 
-<https://zenodo.org/record/19603676#author-1>
+<https://zenodo.org/record/19605307#author-1>
     a foaf:Person ;
     foaf:account <https://orcid.org/0000-0001-6597-3995> ;
     foaf:name "Udo Buchholz" ;
 .
 
-<https://zenodo.org/record/19603676#author-2>
+<https://zenodo.org/record/19605307#author-2>
     a foaf:Person ;
     foaf:account <https://orcid.org/0000-0002-1686-0289> ;
     foaf:name "Ann-Sophie Lehfeld" ;
 .
 
-<https://zenodo.org/record/19603676#author-3>
+<https://zenodo.org/record/19605307#author-3>
     a foaf:Person ;
     foaf:account <https://orcid.org/0000-0002-6455-8527> ;
     foaf:name "Anna Loenenbach" ;
 .
 
-<https://zenodo.org/record/19603676#author-4>
+<https://zenodo.org/record/19605307#author-4>
     a foaf:Person ;
     foaf:account <https://orcid.org/0009-0005-7038-4315> ;
     foaf:name "Kerstin Prahm" ;
 .
 
-<https://zenodo.org/record/19603676#author-5>
+<https://zenodo.org/record/19605307#author-5>
     a foaf:Person ;
     foaf:name "Ute Preuß" ;
 .
 
-<https://zenodo.org/record/19603676#author-6>
+<https://zenodo.org/record/19605307#author-6>
     a foaf:Person ;
     foaf:account <https://orcid.org/0009-0001-8652-0490> ;
     foaf:name "Anastassiya Stepanovich-Falke" ;
 .
 
-<https://zenodo.org/record/19603676#author-7>
+<https://zenodo.org/record/19605307#author-7>
     a foaf:Person ;
     foaf:account <https://orcid.org/0000-0003-3413-1431> ;
     foaf:name "Walter Haas" ;
 .
 
-<https://zenodo.org/record/19603676#dist-01-github>
+<https://zenodo.org/record/19605307#dist-01-github>
     a dcat:Distribution ;
-    dcatde:licenseAttributionByText "Buchholz, U., Lehfeld, A., Loenenbach, A., Prahm, K., Preuß, U., Stepanovich-Falke, A., & Haas, W. (2026). GrippeWeb - Daten des Wochenberichts [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19603676" ;
+    dcatde:licenseAttributionByText "Buchholz, U., Lehfeld, A., Loenenbach, A., Prahm, K., Preuß, U., Stepanovich-Falke, A., & Haas, W. (2026). GrippeWeb - Daten des Wochenberichts [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19605307" ;
     dcatde:plannedAvailability <http://dcat-ap.de/def/plannedAvailability/stable> ;
     dct:description "GitHub ist eine soziales Netzwerk und Plattform, die es ermöglicht, Code-Repositories und Datensätze zu hosten, zu verwalten und zu teilen. Es bietet eine Vielzahl von Funktionen wie Versionskontrolle, Fehlerverfolgung, Zusammenarbeit und Teammanagement. GitHub ist eine der bekanntesten und am häufigsten verwendeten Plattformen für die gemeinsame Entwicklung von Software und Code, insbesondere für Open-Source-Projekte." ;
     dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
     dct:license <https://dcat-ap.de/def/licenses/cc-by/4.0> ;
-    dct:modified "2026-04-16T09:08:15+02:00"^^xsd:dateTime ;
+    dct:modified "2026-04-16T11:06:53+02:00"^^xsd:dateTime ;
     dct:title "Github - GrippeWeb - Daten des Wochenberichts" ;
     dcat:accessURL <https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts> ;
 .
 
-<https://zenodo.org/record/19603676#dist-02-zenodo>
+<https://zenodo.org/record/19605307#dist-02-zenodo>
     a dcat:Distribution ;
-    dcatde:licenseAttributionByText "Buchholz, U., Lehfeld, A., Loenenbach, A., Prahm, K., Preuß, U., Stepanovich-Falke, A., & Haas, W. (2026). GrippeWeb - Daten des Wochenberichts [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19603676" ;
+    dcatde:licenseAttributionByText "Buchholz, U., Lehfeld, A., Loenenbach, A., Prahm, K., Preuß, U., Stepanovich-Falke, A., & Haas, W. (2026). GrippeWeb - Daten des Wochenberichts [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19605307" ;
     dcatde:plannedAvailability <http://dcat-ap.de/def/plannedAvailability/stable> ;
     dct:description "Zenodo ist eine europäische Plattform, die es Forschern, Wissenschaftlern und anderen Personen ermöglicht, Forschungsdaten, Publikationen, Präsentationen und andere wissenschaftliche Inhalte kostenlos zu teilen und zu veröffentlichen. Eine der Hauptstärken von Zenodo ist die Bereitstellung der Daten nach den FAIR Prinzipien, Daten sind langzeitarchiviert und wissenschaftlich zitierbar, um den Datenaustausch und die Zusammenarbeit zwischen Forschern zu erleichtern." ;
     dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
     dct:license <https://dcat-ap.de/def/licenses/cc-by/4.0> ;
-    dct:modified "2026-04-16T09:08:15+02:00"^^xsd:dateTime ;
+    dct:modified "2026-04-16T11:06:53+02:00"^^xsd:dateTime ;
     dct:title "Zenodo - GrippeWeb - Daten des Wochenberichts" ;
-    dcat:accessURL <https://zenodo.org/record/19603676> ;
+    dcat:accessURL <https://zenodo.org/record/19605307> ;
 .
 
-<https://zenodo.org/record/19603676#dist-03-zenodo-documentation>
+<https://zenodo.org/record/19605307#dist-03-zenodo-documentation>
     a dcat:Distribution ;
-    dcatde:licenseAttributionByText "Buchholz, U., Lehfeld, A., Loenenbach, A., Prahm, K., Preuß, U., Stepanovich-Falke, A., & Haas, W. (2026). GrippeWeb - Daten des Wochenberichts [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19603676" ;
+    dcatde:licenseAttributionByText "Buchholz, U., Lehfeld, A., Loenenbach, A., Prahm, K., Preuß, U., Stepanovich-Falke, A., & Haas, W. (2026). GrippeWeb - Daten des Wochenberichts [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19605307" ;
     dcatde:plannedAvailability <http://dcat-ap.de/def/plannedAvailability/stable> ;
     dct:description "Die Datensatzdokumentation enthält Informationen und Hinweise zum Entstehungskontext, dem Aufbau und der Nachnutzung der im Datensatz 'GrippeWeb - Daten des Wochenberichts' bereitgestellten Daten" ;
     dct:format <http://publications.europa.eu/resource/authority/file-type/PDF> ;
     dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
     dct:license <https://dcat-ap.de/def/licenses/cc-by/4.0> ;
-    dct:modified "2026-04-16T09:08:15+02:00"^^xsd:dateTime ;
+    dct:modified "2026-04-16T11:06:53+02:00"^^xsd:dateTime ;
     dct:title "[Dokumentation]_GrippeWeb_Daten_des_Wochenberichts.pdf" ;
-    dcat:accessURL <https://zenodo.org/record/19603676/files/[Dokumentation]_GrippeWeb_Daten_des_Wochenberichts.pdf> ;
+    dcat:accessURL <https://zenodo.org/record/19605307/files/[Dokumentation]_GrippeWeb_Daten_des_Wochenberichts.pdf> ;
 .
