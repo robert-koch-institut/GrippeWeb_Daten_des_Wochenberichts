@@ -9,7 +9,7 @@ abstract: Im Datensatz "GrippeWeb - Daten des Wochenberichts" des Robert Koch-In
   zu Symptomen wie Husten, Fieber und Halsschmerzen. Daraus werden Inzidenzen nach
   Altersgruppen und Regionen errechnet. Die erhobenen Daten unterstützen die Überwachung
   saisonaler Infektionen und dienen der Risikobewertung in Pandemien wie COVID-19.
-date-released: '2026-04-16'
+date-released: '2026-04-23'
 keywords:
   - ARE
   - ILI
@@ -35,8 +35,8 @@ keywords:
 message: Cite me!
 url: https://robert-koch-institut.github.io/GrippeWeb_Daten_des_Wochenberichts
 license: CC-BY-4.0
-doi: 10.5281/zenodo.19605307
-version: '2026-04-14T06:46:21+02:00'
+doi: 10.5281/zenodo.19704401
+version: '2026-04-21T06:34:28+02:00'
 authors:
   - family-names: Buchholz
     given-names: Udo
