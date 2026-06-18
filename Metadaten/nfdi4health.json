@@ -17,7 +17,7 @@
     ],
     "ids": [
       {
-        "identifier": "10.5281/zenodo.20638297",
+        "identifier": "10.5281/zenodo.20742562",
         "typeGeneral": "Dataset",
         "relationType": "A references B",
         "scheme": "DOI"
@@ -120,7 +120,7 @@
         },
         "label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)"
       },
-      "version": "2026-06-11"
+      "version": "2026-06-18"
     },
     "webpage": "https://robert-koch-institut.github.io/GrippeWeb_Daten_des_Wochenberichts",
     "contributors": [
