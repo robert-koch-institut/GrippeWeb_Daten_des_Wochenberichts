@@ -22,7 +22,7 @@ Dokumentation
 
 **Zitieren**  
 <!-- CITATION_START: {"citation_style": "apa", "markdown_style": "plain"} -->
-Buchholz, U., Lehfeld, A., Loenenbach, A., Prahm, K., Preuß, U., Stepanovich-Falke, A., & Haas, W. (2026). GrippeWeb - Daten des Wochenberichts [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.22686163](https://doi.org/10.5281/zenodo.22686163)
+Buchholz, U., Lehfeld, A., Loenenbach, A., Prahm, K., Preuß, U., Stepanovich-Falke, A., & Haas, W. (2026). GrippeWeb - Daten des Wochenberichts [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.22807259](https://doi.org/10.5281/zenodo.22807259)
 <!-- CITATION_END -->
 
 
@@ -150,8 +150,6 @@ Die Daten bilden den wöchentlichen Stand (00:00 Uhr) aller Meldungen von Grippe
 
 Die Datei [GrippeWeb_Daten_des_Wochenberichts.tsv](https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts/blob/main/GrippeWeb_Daten_des_Wochenberichts.tsv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Data Package Standard](https://datapackage.org/) in [tableschema_GrippeWeb_Daten_des_Wochenberichts.json](https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts/blob/main/Metadaten/schemas/tableschema_GrippeWeb_Daten_des_Wochenberichts.json) hinterlegt:
 
-> [tableschema_GrippeWeb_Daten_des_Wochenberichts.json](https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts/blob/main/Metadaten/schemas/tableschema_GrippeWeb_Daten_des_Wochenberichts.json)
-
 <!-- DATA_SCHEMA_TABLE_START -->
 | Variable      | Typ    | Ausprägungen                                                               | Beschreibung                                                                                                                                                                                                                                            |
 |:--------------|:-------|:---------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -231,5 +229,5 @@ Offene Forschungsdaten des RKI werden auf [Zenodo.org](http://Zenodo.org/), [Git
 
 Der Datensatz "GrippeWeb - Daten des Wochenberichts" ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Public License | CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de).  
 
-Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, jede Person hat das Recht die Daten zu verarbeiten und zu verändern, Derivate des Datensatzes zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts/blob/main/LICENSE) bzw. [LIZENZ](https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts/blob/main/LIZENZ) Datei des Datensatzes.  
+Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, dass jede Person das Recht hat, die Daten zu verarbeiten und zu verändern, Derivate des Datensatzes zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts/blob/main/LICENSE) bzw. [LIZENZ](https://github.com/robert-koch-institut/GrippeWeb_Daten_des_Wochenberichts/blob/main/LIZENZ) Datei des Datensatzes.  
 <!-- FOOTER_END -->
