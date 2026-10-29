@@ -10,7 +10,7 @@ abstract: >-
   zu Symptomen wie Husten, Fieber und Halsschmerzen. Daraus werden Inzidenzen nach
   Altersgruppen und Regionen errechnet. Die erhobenen Daten unterstützen die Überwachung
   saisonaler Infektionen und dienen der Risikobewertung in Pandemien wie COVID-19.
-date-released: '2026-10-22'
+date-released: '2026-10-29'
 keywords:
   - ARE
   - ILI
@@ -36,8 +36,8 @@ keywords:
 message: Cite me!
 url: https://robert-koch-institut.github.io/GrippeWeb_Daten_des_Wochenberichts
 license: CC-BY-4.0
-doi: 10.5281/zenodo.23555842
-version: '2026-10-22'
+doi: 10.5281/zenodo.23758256
+version: '2026-10-29'
 authors:
   - family-names: Buchholz
     given-names: Udo
